@@ -1,0 +1,1533 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FF TopicGen — Alur 3 Langkah Generator &amp; Timer Sesi Bicara Esports Free Fire</title>
+  <meta name="description" content="Generator topik acak bernilai positif seputar esports Free Fire dengan alur 3 langkah terstruktur: Spin Topik, Sesi Bicara 1 Menit Layar Penuh, dan Pembahasan Topik.">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#fff3f0',
+              100: '#ffe4dd',
+              500: '#ff4722',
+              600: '#ea3511',
+              700: '#c52809',
+            }
+          },
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
+            mono: ['JetBrains Mono', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'monospace'],
+          },
+          keyframes: {
+            pulseFast: {
+              '0%, 100%': { opacity: '1' },
+              '50%': { opacity: '0.3' },
+            },
+            slotBlur: {
+              '0%': { transform: 'translateY(-10px)', opacity: '0.3', filter: 'blur(1px)' },
+              '100%': { transform: 'translateY(0)', opacity: '1', filter: 'blur(0)' }
+            },
+            fadeIn: {
+              '0%': { opacity: '0', transform: 'translateY(8px)' },
+              '100%': { opacity: '1', transform: 'translateY(0)' }
+            }
+          },
+          animation: {
+            'pulse-fast': 'pulseFast 0.8s ease-in-out infinite',
+            'slot-snap': 'slotBlur 0.15s ease-out',
+            'fade-in': 'fadeIn 0.25s ease-out forwards',
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    /* Styling efek slot machine */
+    .slot-viewport {
+      perspective: 1000px;
+    }
+    .slot-spinning {
+      filter: blur(0.8px);
+      transform: translateY(-2px);
+      transition: all 0.06s linear;
+    }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col font-sans antialiased selection:bg-brand-500 selection:text-white">
+
+  <!-- Header Navigasi & Indikator 3 Tahapan -->
+  <header class="border-b border-slate-800 bg-slate-900/90 backdrop-blur-md sticky top-0 z-30">
+    <div class="max-w-5xl mx-auto px-4 h-16 sm:h-18 flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-0 py-2 sm:py-0">
+      
+      <!-- Sisi Kiri: Tombol Ikon Instagram & Logo Brand -->
+      <div class="flex items-center space-x-2.5 sm:space-x-3.5">
+        <!-- Tombol Ikon Instagram (Pojok Kiri) -->
+        <a href="https://www.instagram.com/zhy_iraa18" 
+           target="_blank" 
+           rel="noopener noreferrer" 
+           class="w-8.5 h-8.5 sm:w-9 sm:h-9 flex items-center justify-center rounded-lg bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700/80 transition-all duration-150 group shadow-sm hover:border-brand-500/50 hover:shadow-brand-500/10 shrink-0"
+           title="Instagram @zhy_iraa18"
+           aria-label="Kunjungi Instagram @zhy_iraa18 (buka di tab baru)">
+          <svg class="w-4 h-4 text-brand-500 group-hover:scale-110 transition-transform duration-150 fill-current" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+          </svg>
+        </a>
+
+        <!-- Brand Logo -->
+        <div class="flex items-center space-x-2">
+          <div class="w-8 h-8 rounded-lg bg-gradient-to-tr from-brand-600 to-amber-500 flex items-center justify-center font-black text-white text-base shadow-md shadow-brand-500/20">
+            FF
+          </div>
+          <div>
+            <span class="font-extrabold text-base sm:text-lg tracking-tight text-white">FF TopicGen</span>
+            <span class="hidden md:inline-block ml-1.5 px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wider bg-slate-800 text-brand-500 rounded border border-slate-700">
+              Esports Free Fire
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Indikator 3 Langkah Alur Kerja -->
+      <nav aria-label="Alur Tahapan Sesi" class="flex items-center space-x-1.5 sm:space-x-2 text-[11px] sm:text-xs font-bold">
+        <!-- Tahap 1 -->
+        <div id="step-nav-1" class="flex items-center space-x-1 px-2.5 py-1 rounded-md bg-brand-500 text-white shadow-sm transition-colors">
+          <span>1. Spin Topik</span>
+        </div>
+        <span class="text-slate-600 font-normal">&rarr;</span>
+        
+        <!-- Tahap 2 -->
+        <div id="step-nav-2" class="flex items-center space-x-1 px-2.5 py-1 rounded-md bg-slate-800 text-slate-500 border border-slate-700 transition-colors">
+          <span>2. Sesi Bicara</span>
+        </div>
+        <span class="text-slate-600 font-normal">&rarr;</span>
+        
+        <!-- Tahap 3 -->
+        <div id="step-nav-3" class="flex items-center space-x-1 px-2.5 py-1 rounded-md bg-slate-800 text-slate-500 border border-slate-700 transition-colors">
+          <span>3. Pembahasan</span>
+        </div>
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- Konten Utama Dinamis 3 Halaman -->
+  <main class="flex-1 max-w-4xl w-full mx-auto px-4 py-6 sm:py-10 flex flex-col items-center">
+
+    <!-- ======================================================== -->
+    <!-- LANGKAH 1: HALAMAN SPIN TOPIK                             -->
+    <!-- ======================================================== -->
+    <section id="view-step-1" class="w-full flex flex-col items-center animate-fade-in" aria-label="Langkah 1: Spin Topik">
+      
+      <!-- Pengantar -->
+      <div class="text-center mb-8">
+        <h1 class="text-2xl sm:text-4xl font-extrabold tracking-tight text-white mb-2">
+          Generator Topik Esports Free Fire
+        </h1>
+        <p class="text-sm sm:text-base text-slate-400 max-w-xl mx-auto leading-relaxed">
+          Pilih kategori dan putar untuk menghasilkan 1 kalimat pertanyaan utama. Setelah menemukan topik yang cocok, lanjut ke Langkah 2 untuk sesi bicara 1 menit.
+        </p>
+      </div>
+
+      <!-- Filter Kategori (Tabs) -->
+      <div class="w-full mb-6">
+        <div class="flex items-center justify-center gap-1.5 sm:gap-2 flex-wrap p-1.5 bg-slate-900 border border-slate-800 rounded-xl" role="tablist" aria-label="Filter Kategori Topik">
+          <button type="button" class="category-btn active px-3.5 py-1.5 text-xs sm:text-sm font-semibold rounded-lg transition-all duration-150 bg-brand-500 text-white shadow-sm" data-category="all" role="tab" aria-selected="true">
+            Semua
+          </button>
+          <button type="button" class="category-btn px-3.5 py-1.5 text-xs sm:text-sm font-semibold rounded-lg transition-all duration-150 text-slate-400 hover:text-white hover:bg-slate-800/80" data-category="strategi" role="tab" aria-selected="false">
+            Strategi &amp; Kepemimpinan
+          </button>
+          <button type="button" class="category-btn px-3.5 py-1.5 text-xs sm:text-sm font-semibold rounded-lg transition-all duration-150 text-slate-400 hover:text-white hover:bg-slate-800/80" data-category="inspirasi" role="tab" aria-selected="false">
+            Inspirasi Pro Player
+          </button>
+          <button type="button" class="category-btn px-3.5 py-1.5 text-xs sm:text-sm font-semibold rounded-lg transition-all duration-150 text-slate-400 hover:text-white hover:bg-slate-800/80" data-category="komunitas" role="tab" aria-selected="false">
+            Komunitas &amp; Industri
+          </button>
+          <button type="button" class="category-btn px-3.5 py-1.5 text-xs sm:text-sm font-semibold rounded-lg transition-all duration-150 text-slate-400 hover:text-white hover:bg-slate-800/80" data-category="pendidikan" role="tab" aria-selected="false">
+            Pendidikan
+          </button>
+        </div>
+      </div>
+
+      <!-- Kartu Hasil Spin (HANYA 1 Kalimat Pertanyaan Utama) -->
+      <div class="w-full bg-slate-900 border border-slate-800 rounded-2xl p-6 sm:p-10 shadow-xl shadow-black/40 mb-6 flex flex-col justify-between min-h-[220px] sm:min-h-[250px] relative overflow-hidden transition-all duration-200">
+        
+        <!-- Header Kartu -->
+        <div class="flex items-center justify-between gap-2 mb-4">
+          <div class="flex items-center gap-2">
+            <span class="inline-block w-2 h-2 rounded-full bg-brand-500"></span>
+            <span id="step1-category-badge" class="text-xs font-bold uppercase tracking-wider text-brand-500">
+              Kategori: Siap Memulai
+            </span>
+          </div>
+          <span id="step1-id-badge" class="text-xs font-mono text-slate-500">
+            ID: #000
+          </span>
+        </div>
+
+        <!-- Viewport Putar Slot Machine -->
+        <div class="slot-viewport my-auto py-3">
+          <p id="step1-question-text" class="text-lg sm:text-2xl font-bold leading-relaxed sm:leading-snug text-slate-100 transition-all duration-100 text-center">
+            Tekan tombol "Acak Topik" di bawah untuk memutar dan mendapatkan 1 pertanyaan diskusi.
+          </p>
+        </div>
+
+        <!-- Notifikasi Salin Ringan -->
+        <div id="copy-toast-1" class="absolute top-4 right-4 bg-emerald-500/90 text-white text-xs font-bold px-3 py-1.5 rounded-lg shadow-lg opacity-0 pointer-events-none transition-opacity duration-200">
+          Teks Pertanyaan Disalin
+        </div>
+      </div>
+
+      <!-- Tombol Aksi Langkah 1 -->
+      <div class="w-full flex flex-col sm:flex-row items-stretch sm:items-start justify-center gap-3">
+        <!-- Tombol Spin -->
+        <button id="btn-spin" type="button" class="flex-1 sm:flex-initial sm:min-w-[210px] h-13 px-6 py-3.5 bg-gradient-to-r from-brand-600 via-brand-500 to-amber-500 hover:from-brand-500 hover:to-amber-400 active:scale-[0.98] text-white font-extrabold text-base tracking-wide rounded-xl shadow-lg shadow-brand-500/25 transition-all duration-150 flex items-center justify-center space-x-2">
+          <svg class="w-5 h-5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+          </svg>
+          <span id="btn-spin-label">Acak Topik</span>
+        </button>
+
+        <!-- Tombol Lanjut ke Langkah 2: Sesi Bicara -->
+        <div class="flex-1 sm:flex-initial flex flex-col items-center">
+          <button id="btn-go-to-timer" type="button" class="w-full sm:min-w-[210px] h-13 px-6 py-3.5 bg-emerald-600 hover:bg-emerald-500 disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-emerald-600 active:scale-[0.98] text-white font-extrabold text-base tracking-wide rounded-xl shadow-lg shadow-emerald-600/20 transition-all duration-150 flex items-center justify-center space-x-2" disabled>
+            <span>Mulai Sesi Bicara</span>
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
+            </svg>
+          </button>
+          <!-- Petunjuk Visual Tombol Enter -->
+          <span id="step1-enter-hint" class="text-[11px] text-slate-400 mt-1.5 flex items-center space-x-1 opacity-0 transition-opacity duration-200 select-none">
+            <span>Atau tekan</span>
+            <kbd class="px-1.5 py-0.5 bg-slate-800 border border-slate-700 rounded text-[10px] font-mono text-emerald-400 font-semibold shadow-inner">Enter ↵</kbd>
+            <span>untuk mulai</span>
+          </span>
+        </div>
+
+        <!-- Tombol Salin Cepat -->
+        <button id="btn-copy-question" type="button" class="h-13 px-4 py-3.5 bg-slate-800 hover:bg-slate-700 active:scale-[0.98] text-slate-300 hover:text-white font-bold text-sm rounded-xl border border-slate-700 transition-all duration-150 flex items-center justify-center space-x-2" title="Salin Pertanyaan">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
+          </svg>
+          <span class="hidden sm:inline">Salin</span>
+        </button>
+      </div>
+
+      <!-- Petunjuk Navigasi Spasi & Enter di Langkah 1 -->
+      <div class="w-full flex flex-wrap items-center justify-center gap-3 text-xs text-slate-400 mt-3 sm:mt-2">
+        <div class="inline-flex items-center space-x-1.5">
+          <kbd class="px-2 py-0.5 bg-slate-800 border border-slate-700 rounded-md text-slate-300 font-mono text-[11px] font-semibold shadow-inner">
+            Spasi
+          </kbd>
+          <span>Acak Topik</span>
+        </div>
+        <span class="text-slate-600 hidden sm:inline">•</span>
+        <div class="inline-flex items-center space-x-1.5">
+          <kbd class="px-2 py-0.5 bg-slate-800 border border-slate-700 rounded-md text-slate-300 font-mono text-[11px] font-semibold shadow-inner">
+            Enter ↵
+          </kbd>
+          <span>Mulai Bicara</span>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ======================================================== -->
+    <!-- LANGKAH 2: HALAMAN TIMER (HAMPIR FULL PAGE)              -->
+    <!-- ======================================================== -->
+    <section id="view-step-2" class="w-full flex flex-col items-center justify-between min-h-[72vh] sm:min-h-[76vh] hidden animate-fade-in" aria-label="Langkah 2: Sesi Bicara Timer">
+      
+      <!-- Pengingat Pertanyaan Topik Ringkas di Atas Timer -->
+      <div class="w-full max-w-2xl text-center pt-2 pb-4">
+        <div class="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-slate-900 border border-slate-800 text-xs font-bold text-brand-500 mb-2">
+          <span class="w-1.5 h-1.5 rounded-full bg-brand-500"></span>
+          <span id="step2-category-label">Kategori Topik</span>
+        </div>
+        <p id="step2-question-reminder" class="text-base sm:text-xl font-bold text-slate-200 leading-snug line-clamp-3">
+          Teks pertanyaan topik sebagai pengingat selama berbicara.
+        </p>
+      </div>
+
+      <!-- Modul Timer Sangat Besar & Dominan di Tengah Layar -->
+      <div id="step2-timer-box" class="w-full flex-1 flex flex-col items-center justify-center my-auto py-8 sm:py-12 bg-slate-900/80 border border-slate-800 rounded-3xl shadow-2xl shadow-black/60 relative overflow-hidden transition-all duration-300">
+        
+        <!-- Status Badge Timer -->
+        <div class="mb-3 sm:mb-5">
+          <span id="step2-timer-badge" class="text-xs sm:text-sm font-extrabold px-3.5 py-1 rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 tracking-wider uppercase shadow-sm">
+            Timer Berjalan
+          </span>
+        </div>
+
+        <!-- Timer Bentuk Lingkaran (Circular Progress Ring) -->
+        <div class="relative flex items-center justify-center my-2 sm:my-4 select-none">
+          <!-- SVG Circular Progress Ring -->
+          <svg class="w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 -rotate-90 transform" viewBox="0 0 280 280">
+            <!-- Lingkaran Latar Belakang (Track) -->
+            <circle
+              cx="140"
+              cy="140"
+              r="120"
+              stroke-width="12"
+              stroke="currentColor"
+              class="text-slate-800/80"
+              fill="transparent"
+            />
+            <!-- Lingkaran Efek Cahaya / Glow Ambient Khas Free Fire -->
+            <circle
+              id="step2-timer-glow"
+              cx="140"
+              cy="140"
+              r="120"
+              stroke-width="16"
+              stroke="currentColor"
+              class="text-brand-500/15"
+              fill="transparent"
+            />
+            <!-- Lingkaran Progress Berkurang Mulus (Smooth SVG Dashoffset) -->
+            <circle
+              id="step2-timer-ring"
+              cx="140"
+              cy="140"
+              r="120"
+              stroke-width="12"
+              stroke-linecap="round"
+              stroke="currentColor"
+              class="text-brand-500 drop-shadow-[0_0_12px_rgba(255,71,34,0.45)] transition-[stroke-dashoffset] duration-1000 ease-linear"
+              fill="transparent"
+              stroke-dasharray="753.98"
+              stroke-dashoffset="0"
+            />
+          </svg>
+
+          <!-- Tampilan Angka Countdown Digital Tepat di Tengah Lingkaran -->
+          <div class="absolute inset-0 flex flex-col items-center justify-center text-center pointer-events-none">
+            <div id="step2-timer-display" class="font-mono text-5xl sm:text-7xl md:text-8xl font-black tracking-tight text-brand-500 transition-colors duration-200 drop-shadow-[0_0_24px_rgba(255,71,34,0.35)]">
+              01:00
+            </div>
+            <span id="step2-timer-subtext" class="text-xs sm:text-sm font-bold tracking-widest text-slate-400 uppercase mt-1">
+              Sesi Bicara 1 Menit
+            </span>
+          </div>
+        </div>
+
+        <!-- Petunjuk Kontrol Tombol Spasi -->
+        <div class="flex items-center justify-center space-x-2 text-xs sm:text-sm text-slate-400 mt-2">
+          <kbd class="px-2.5 py-1 bg-slate-800 border border-slate-700 rounded-md text-slate-300 font-mono text-xs font-semibold shadow-inner">
+            Spasi
+          </kbd>
+          <span id="step2-timer-hint">
+            Tekan Spasi untuk jeda (pause)
+          </span>
+        </div>
+
+      </div>
+
+      <!-- Tombol Navigasi Bawah Langkah 2 -->
+      <div class="w-full pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <!-- Tombol Batal / Kembali ke Langkah 1 -->
+        <button id="btn-timer-cancel" type="button" class="w-full sm:w-auto px-4 py-2.5 text-xs sm:text-sm font-semibold text-slate-400 hover:text-white flex items-center justify-center space-x-1.5 transition-colors">
+          <span>&larr; Batalkan / Kembali ke Spin</span>
+        </button>
+
+        <!-- Tombol Lanjut ke Langkah 3: Pembahasan Topik -->
+        <button id="btn-go-to-review" type="button" class="w-full sm:w-auto px-6 py-3.5 bg-gradient-to-r from-brand-600 to-amber-500 hover:from-brand-500 hover:to-amber-400 active:scale-[0.98] text-white font-extrabold text-sm sm:text-base tracking-wide rounded-xl shadow-lg shadow-brand-500/20 transition-all duration-150 flex items-center justify-center space-x-2">
+          <span>Lihat Pembahasan Lengkap</span>
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
+          </svg>
+        </button>
+      </div>
+
+    </section>
+
+    <!-- ======================================================== -->
+    <!-- LANGKAH 3: HALAMAN PEMBAHASAN TOPIK                      -->
+    <!-- ======================================================== -->
+    <section id="view-step-3" class="w-full flex-col items-center hidden animate-fade-in" aria-label="Langkah 3: Pembahasan Topik Lengkap">
+      
+      <!-- Judul Bagian -->
+      <div class="text-center mb-6">
+        <span class="text-xs font-bold uppercase tracking-wider text-brand-500 block mb-1">
+          Langkah 3: Evaluasi &amp; Poin Pembuktian
+        </span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-white">
+          Pembahasan Topik &amp; Garis Besar Argumen
+        </h2>
+      </div>
+
+      <!-- Kartu Pembahasan Lengkap -->
+      <div class="w-full bg-slate-900 border border-slate-800 rounded-2xl p-6 sm:p-8 shadow-xl shadow-black/40 mb-6 relative">
+        
+        <!-- Header Pembahasan -->
+        <div class="flex items-center justify-between gap-2 mb-4">
+          <div class="flex items-center gap-2">
+            <span class="inline-block w-2 h-2 rounded-full bg-brand-500"></span>
+            <span id="step3-category-badge" class="text-xs font-bold uppercase tracking-wider text-brand-500">
+              Kategori Topik
+            </span>
+          </div>
+          <span id="step3-id-badge" class="text-xs font-mono text-slate-500">
+            ID: #000
+          </span>
+        </div>
+
+        <!-- Pertanyaan Utama -->
+        <div class="mb-6 pb-5 border-b border-slate-800">
+          <span class="text-xs font-semibold uppercase tracking-wider text-slate-400 block mb-1.5">
+            Pertanyaan Utama:
+          </span>
+          <h3 id="step3-question-heading" class="text-lg sm:text-2xl font-extrabold text-white leading-snug">
+            Pertanyaan topik yang telah dibahas.
+          </h3>
+        </div>
+
+        <!-- Poin-Poin Pembuktian Lengkap -->
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-slate-400 block mb-3">
+            Poin-Poin Pembuktian &amp; Fakta Argumen:
+          </span>
+          <ul id="step3-points-list" class="space-y-3.5 text-sm sm:text-base text-slate-200">
+            <!-- Diisi dinamis -->
+          </ul>
+        </div>
+
+        <!-- Notifikasi Salin Pembahasan -->
+        <div id="copy-toast-3" class="absolute top-4 right-4 bg-emerald-500/90 text-white text-xs font-bold px-3 py-1.5 rounded-lg shadow-lg opacity-0 pointer-events-none transition-opacity duration-200">
+          Pembahasan Lengkap Disalin
+        </div>
+      </div>
+
+      <!-- Baris Tombol Aksi Langkah 3 -->
+      <div class="w-full flex flex-col sm:flex-row items-center justify-center gap-3">
+        <!-- Tombol Utama: Coba Topik Baru (Kembali ke Langkah 1) -->
+        <button id="btn-new-topic" type="button" class="w-full sm:w-auto min-w-[220px] h-13 px-6 py-3.5 bg-gradient-to-r from-brand-600 via-brand-500 to-amber-500 hover:from-brand-500 hover:to-amber-400 active:scale-[0.98] text-white font-extrabold text-base tracking-wide rounded-xl shadow-lg shadow-brand-500/25 transition-all duration-150 flex items-center justify-center space-x-2">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+          </svg>
+          <span>Coba Topik Baru</span>
+        </button>
+
+        <!-- Tombol Salin Seluruh Pembahasan -->
+        <button id="btn-copy-review" type="button" class="w-full sm:w-auto h-13 px-5 py-3.5 bg-slate-800 hover:bg-slate-700 active:scale-[0.98] text-slate-200 hover:text-white font-bold text-sm rounded-xl border border-slate-700 transition-all duration-150 flex items-center justify-center space-x-2">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
+          </svg>
+          <span>Salin Pembahasan</span>
+        </button>
+
+        <!-- Tombol Latih Ulang Timer Topik Ini -->
+        <button id="btn-retry-timer" type="button" class="w-full sm:w-auto h-13 px-5 py-3.5 bg-slate-900 hover:bg-slate-800 active:scale-[0.98] text-slate-400 hover:text-white font-bold text-sm rounded-xl border border-slate-800 transition-all duration-150 flex items-center justify-center space-x-2">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <span>Latih Ulang Timer</span>
+        </button>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800 py-6 text-center text-xs text-slate-500 mt-auto">
+    <div class="max-w-4xl mx-auto px-4 space-y-2">
+      <p>
+        Disklaimer: FF TopicGen adalah proyek komunitas independen dan bukan layanan resmi dari penerbit gim Free Fire.
+      </p>
+      <p>
+        &copy; 2026 FF TopicGen &bull; Platform latihan bicara dan diskusi esports Free Fire Indonesia.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Logika Aplikasi (Vanilla JS) -->
+  <script>
+    (function() {
+      'use strict';
+
+      // ==========================================
+      // 1. DATA TOPIK ESPORTS FREE FIRE
+      // ==========================================
+      const TOPIC_DATABASE = [
+        // Strategi & Kepemimpinan
+        {
+          id: "STR-01",
+          kategori: "strategi",
+          kategoriLabel: "Strategi & Kepemimpinan",
+          teks: "Bagaimana komunikasi yang ringkas dan tenang dapat menyelamatkan formasi tim saat diserang dari dua arah berbeda?",
+          poin: [
+            "Penyampaian informasi cepat menggunakan arah mata angin kompas dan sisa pelindung lawan tanpa kepanikan.",
+            "Disiplin komunikasi suara dengan memprioritaskan instruksi taktis kapten di tengah dentuman tembakan.",
+            "Pemasangan Gloo Wall bertingkat untuk membuka rute evakuasi aman bagi pemain yang posisinya terjepit."
+          ]
+        },
+        {
+          id: "STR-02",
+          kategori: "strategi",
+          kategoriLabel: "Strategi & Kepemimpinan",
+          teks: "Apa peran utama seorang In-Game Leader (IGL) dalam membangkitkan rasa percaya diri skuad setelah ronde yang buruk?",
+          poin: [
+            "Mengevaluasi kesalahan eksekusi secara teknis tanpa menyudutkan atau menyalahkan salah satu individu.",
+            "Menetapkan target poin dan jalur rotasi zona yang realistis serta dapat diraih pada ronde berikutnya.",
+            "Menjaga intonasi suara tetap berenergi dan memulihkan rasa percaya antarpemain sebelum turun kembali."
+          ]
+        },
+        {
+          id: "STR-03",
+          kategori: "strategi",
+          kategoriLabel: "Strategi & Kepemimpinan",
+          teks: "Mengapa pembagian tugas yang jelas antara rusher dan support lebih krusial dibanding adu keterampilan tembak individu?",
+          poin: [
+            "Kepastian tembakan pelapis (cover fire) memberikan keberanian bagi rusher untuk memecah pertahanan musuh.",
+            "Manajemen logistik medkit dan amunisi yang terdistribusi merata mencegah tim kehabisan daya tahan di zona akhir.",
+            "Sinergi keterampilan karakter aktif dan pasif yang dirancang saling melengkapi kebutuhan formasi tempur."
+          ]
+        },
+        {
+          id: "STR-04",
+          kategori: "strategi",
+          kategoriLabel: "Strategi & Kepemimpinan",
+          teks: "Kapan saat terbaik bagi kapten untuk memutuskan mundur demi mengamankan poin penempatan daripada memaksakan baku tembak?",
+          poin: [
+            "Perhitungan kerugian jika kehilangan pemain pembuka eliminasi di fase awal yang dapat melemahkan formasi.",
+            "Membaca laju penutupan zona aman yang menuntut pergerakan cepat sebelum terhambat di luar lingkaran.",
+            "Kewaspadaan terhadap keberadaan tim ketiga yang mengintai dan siap menyapu sisa pertempuran."
+          ]
+        },
+        {
+          id: "STR-05",
+          kategori: "strategi",
+          kategoriLabel: "Strategi & Kepemimpinan",
+          teks: "Bagaimana mengoptimalkan penguasaan dataran tinggi (high ground) tanpa mudah terdeteksi oleh penembak jitu lawan?",
+          poin: [
+            "Memanfaatkan kontur batuan alam dan lekukan bukit sebagai benteng alami tanpa memperlihatkan siluet tubuh.",
+            "Disiplin menahan tembakan pembuka hingga seluruh pemain berada dalam posisi silang tembak (crossfire).",
+            "Membagi sudut pandang pengawasan agar bagian lereng belakang bukit tidak disusupi pergerakan senyap tim lawan."
+          ]
+        },
+
+        // Inspirasi Pro Player
+        {
+          id: "INS-01",
+          kategori: "inspirasi",
+          kategoriLabel: "Inspirasi Pro Player",
+          teks: "Pelajaran ketekunan apa yang dapat dipetik dari perjalanan pemain yang merintis karier dari turnamen antarkampung hingga ke panggung dunia?",
+          poin: [
+            "Keterbatasan spesifikasi gawai di masa awal bukan penghalang jika diimbangi tekad mengasah kepekaan taktik.",
+            "Kedisiplinan mengulang latihan gerakan dasar dan reflek bidikan ribuan kali setiap hari hingga menjadi naluri alami.",
+            "Menjaga sikap rendah hati dan tidak melupakan komunitas akar rumput tempat awal mula bakat ditempa."
+          ]
+        },
+        {
+          id: "INS-02",
+          kategori: "inspirasi",
+          kategoriLabel: "Inspirasi Pro Player",
+          teks: "Bagaimana atlet esports profesional menjaga ketahanan mental dan fisik saat menghadapi jadwal turnamen yang padat?",
+          poin: [
+            "Menjalankan rutinitas istirahat yang cukup dan peregangan fisik guna mencegah cedera sendi tangan kronis.",
+            "Menyaring kritik publik secara positif dan mengabaikan cemoohan destruktif yang dapat merusak kestabilan emosi.",
+            "Menjadikan peran keluarga dan pelatih sebagai jangkar ketenangan moral dalam menghadapi masa paceklik prestasi."
+          ]
+        },
+        {
+          id: "INS-03",
+          kategori: "inspirasi",
+          kategoriLabel: "Inspirasi Pro Player",
+          teks: "Mengapa sportivitas menerima kekalahan dengan kepala tegak mencerminkan mentalitas juara sejati seorang atlet?",
+          poin: [
+            "Mengakui keunggulan strategi lawan secara ksatria dan memberikan ucapan selamat yang tulus di atas panggung.",
+            "Menjadikan setiap kekalahan sebagai bahan rekaman berharga untuk menyempurnakan kelemahan strategi internal.",
+            "Menolak mencari alasan pembenaran teknis dan berani bertanggung jawab penuh atas hasil pertandingan."
+          ]
+        },
+        {
+          id: "INS-04",
+          kategori: "inspirasi",
+          kategoriLabel: "Inspirasi Pro Player",
+          teks: "Bagaimana seorang pro player membagi waktu secara seimbang antara komitmen pendidikan formal dan ambisi kompetisi?",
+          poin: [
+            "Menetapkan jadwal harian yang tertib tanpa menunda penyelesaian kewajiban tugas akademik sekolah atau kuliah.",
+            "Menjaga komunikasi terbuka dengan orang tua dan pihak pendidik mengenai target capaian karier kompetitif.",
+            "Menyadari bahwa kecerdasan wawasan akademik sangat menunjang daya analisis strategi di arena pertempuran."
+          ]
+        },
+        {
+          id: "INS-05",
+          kategori: "inspirasi",
+          kategoriLabel: "Inspirasi Pro Player",
+          teks: "Apa makna tanggung jawab moral seorang pemain bintang saat berbicara di media sosial di hadapan jutaan penggemar muda?",
+          poin: [
+            "Memberikan teladan tutur kata yang santun dan menolak keterlibatan dalam perselisihan daring yang tidak mendidik.",
+            "Menyuarakan penolakan tegas terhadap segala bentuk kecurangan, perundungan, dan ujaran kebencian di komunitas.",
+            "Menggunakan jangkauan popularitas untuk menularkan semangat belajar, kerja keras, dan sportivitas positif."
+          ]
+        },
+
+        // Komunitas & Industri
+        {
+          id: "KOM-01",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana inisiatif turnamen amal komunitas Free Fire dapat memberikan bantuan nyata bagi penanganan bencana di daerah?",
+          poin: [
+            "Memanfaatkan kanal siaran turnamen komunitas sebagai wadah penggalangan donasi sosial kemanusiaan yang transparan.",
+            "Menggerakkan solidaritas jaringan guild daerah untuk menyalurkan bantuan logistik langsung kepada para korban.",
+            "Membuktikan kepada masyarakat bahwa antusiasme generasi gamer memiliki kepedulian sosial yang nyata dan bermartabat."
+          ]
+        },
+        {
+          id: "KOM-02",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Selain menjadi pemain profesional, peluang karier apa saja yang terbuka lebar bagi generasi muda di ekosistem esports?",
+          poin: [
+            "Peran teknis strategis seperti pemandu bakat pemain, analis statistik pertandingan, serta pelatih tim profesional.",
+            "Profesi penyiaran seperti komentator laga (caster), pembawa acara panggung, penata kamera dalam gim, dan produser acara.",
+            "Karier industri kreatif seperti desainer grafis jersi, editor video sorotan laga, serta pengelola komunikasi komunitas."
+          ]
+        },
+        {
+          id: "KOM-03",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Langkah nyata apa yang dapat diambil pengelola guild untuk menciptakan ruang bermain yang ramah dan bebas dari perilaku perundungan?",
+          poin: [
+            "Menyusun piagam tata krama grup internal yang melarang keras penghinaan, sarkasme berlebihan, dan perundungan.",
+            "Menetapkan mekanisme sanksi tegas hingga pemecatan bagi anggota yang berulang kali merusak keharmonisan tim.",
+            "Membangun tradisi saling membimbing dan merangkul anggota pemula agar merasa aman serta nyaman berkembang."
+          ]
+        },
+        {
+          id: "KOM-04",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana turnamen antarpelajar dapat menjadi sarana mempererat persahabatan generasi muda dan mencegah gesekan antarsekolah?",
+          poin: [
+            "Menyalurkan energi persaingan remaja ke dalam arena kompetisi olahraga digital yang tertib dan berlandaskan aturan resmi.",
+            "Membuka kesempatan komunikasi tatap muka yang akrab antarpelajar dari berbagai sekolah saat acara berlangsung.",
+            "Mewajibkan syarat prestasi akademik dan kelakuan baik di sekolah sebagai tiket keikutsertaan turnamen."
+          ]
+        },
+        {
+          id: "KOM-05",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana cara komunitas mengkampanyekan kebiasaan bermain yang sehat dan teratur agar tidak mengganggu produktivitas nyata?",
+          poin: [
+            "Menentukan jam jeda bermain malam hari agar para anggota menjaga kebugaran fisik, kualitas tidur, dan kesehatan mata.",
+            "Mengingatkan prioritas kewajiban ibadah, pekerjaan, dan waktu berkualitas bersama keluarga di atas hobi bermain gim.",
+            "Mengedukasi bahwa kehebatan seorang atlet diukur dari efisiensi kualitas latihan, bukan dari lamanya durasi begadang."
+          ]
+        },
+        {
+          id: "KOM-06",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana penyelenggaraan turnamen komunitas di daerah dapat menggerakkan perekonomian para pelaku UMKM setempat?",
+          poin: [
+            "Meningkatkan omzet penjualan pedagang kuliner dan kedai kopi di sekitar lokasi acara turnamen.",
+            "Membuka peluang kerja sama bagi penyedia jasa panggung, tata suara, dan percetakan jersi lokal.",
+            "Menciptakan ruang ekonomi kreatif baru yang melibatkan generasi muda sebagai panitia pelaksana."
+          ]
+        },
+        {
+          id: "KOM-07",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Apa peran penting penguasaan literasi digital dalam melindungi akun komunitas dari ancaman tautan penipuan dan peretasan?",
+          poin: [
+            "Mengedukasi seluruh anggota agar tidak mudah tergiur tawaran hadiah atau diamond gratis yang mencurigakan.",
+            "Membiasakan penggunaan fitur autentikasi dua faktor pada setiap akun gim dan media sosial komunitas.",
+            "Membangun kewaspadaan kolektif dengan segera melaporkan upaya phishing di grup komunikasi resmi."
+          ]
+        },
+        {
+          id: "KOM-08",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana cara pengurus guild merancang program pembinaan berjenjang untuk menyaring talenta muda berbakat menuju kancah profesional?",
+          poin: [
+            "Mengadakan kompetisi seleksi internal secara berkala dengan sistem penilaian performa yang transparan.",
+            "Menyediakan sesi evaluasi taktik bersama kapten senior untuk membedah rekaman pertandingan secara mendalam.",
+            "Membina kedisiplinan mental dan etika komunikasi calon atlet sebelum diikutsertakan ke turnamen resmi."
+          ]
+        },
+        {
+          id: "KOM-09",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Mengapa transparansi pengelolaan kas dan iuran komunitas menjadi kunci utama bertahannya sebuah guild dalam jangka panjang?",
+          poin: [
+            "Menghindari kecurigaan dan perselisihan internal dengan mencatat setiap pemasukan serta pengeluaran secara terbuka.",
+            "Memperkuat rasa memiliki seluruh anggota terhadap setiap agenda kegiatan yang didanai bersama.",
+            "Membangun reputasi terpercaya saat menjalin kerja sama atau mengajukan proposal sponsor ke pihak luar."
+          ]
+        },
+        {
+          id: "KOM-10",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana komunitas Free Fire dapat merangkul pemain perempuan agar merasa aman, nyaman, dan berdaya di scene kompetitif?",
+          poin: [
+            "Menindak tegas segala bentuk pelecehan verbal, komentar seksis, dan perundungan di ruang permainan bersama.",
+            "Membuka ruang latihan tanding dan turnamen khusus yang mendukung perkembangan tim-tim perempuan daerah.",
+            "Menampilkan kisah inspiratif figur atlet dan kreator perempuan sebagai teladan prestasi di media sosial guild."
+          ]
+        },
+        {
+          id: "KOM-11",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Apa saja langkah konkret yang dapat dilakukan caster pemula untuk membangun reputasi profesional di mata penyelenggara turnamen?",
+          poin: [
+            "Mempelajari data statistik, nama pemain, serta kebiasaan drop zone setiap tim sebelum siaran dimulai.",
+            "Melatih artikulasi vokal dan kepekaan ritme bicara agar tidak melelahkan pendengaran penonton sepanjang siaran.",
+            "Menjaga netralitas komando laga tanpa memperlihatkan keberpihakan emosional kepada salah satu tim bertanding."
+          ]
+        },
+        {
+          id: "KOM-12",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana komunitas dapat menjalin kolaborasi strategis dengan dinas kepemudaan dan KONI daerah untuk memajukan esports resmi?",
+          poin: [
+            "Menyusun program kerja yang sejalan dengan agenda pembinaan pemuda dan keolahragaan prestasi daerah.",
+            "Memanfaatkan fasilitas gelanggang olahraga milik pemerintah daerah untuk perhelatan turnamen resmi komunitas.",
+            "Membantu pendataan atlet esports potensial daerah untuk persiapan kejuaraan pekan olahraga tingkat provinsi."
+          ]
+        },
+        {
+          id: "KOM-13",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana peran seorang analis pertandingan dalam membantu efisiensi latihan tim dan pemetaan strategi lawan?",
+          poin: [
+            "Mengolah data statistik eliminasi dan rute rotasi musuh menjadi kesimpulan taktis yang mudah dipahami pemain.",
+            "Menemukan titik buta dan kebiasaan keliru tim internal yang sering terulang pada pertandingan sebelumnya.",
+            "Memberikan masukan objektif kepada pelatih kepala saat merancang variasi taktik tandingan menghadapi lawan spesifik."
+          ]
+        },
+        {
+          id: "KOM-14",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Langkah apa yang perlu disiapkan komunitas saat ingin mengadakan kegiatan aksi sosial donor darah bersama PMI?",
+          poin: [
+            "Menyosialisasikan syarat kesehatan donor darah kepada anggota guild jauh-jauh hari sebelum hari pelaksanaan.",
+            "Menyelenggarakan kegiatan donor darah bertepatan dengan momen perayaan ulang tahun komunitas atau turnamen akbar.",
+            "Membuktikan kepedulian nyata para gamer dalam membantu ketersediaan stok darah bagi masyarakat yang membutuhkan."
+          ]
+        },
+        {
+          id: "KOM-15",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana seorang kreator konten video pendek dapat mempertahankan orisinalitas karya tanpa terjebak tren instan yang tidak mendidik?",
+          poin: [
+            "Fokus pada pembagian tips mekanik, trik rotasi, dan pembedahan strategi yang memberikan nilai edukasi nyata.",
+            "Membangun gaya penyampaian ciri khas pribadi yang santun, ramah, dan konsisten di setiap unggahan.",
+            "Menolak membuat konten drama rekayasa yang dapat memicu permusuhan antarpendukung di kolom komentar."
+          ]
+        },
+        {
+          id: "KOM-16",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Apa pentingnya pemahaman etika hukum kontrak bagi talenta muda sebelum menandatangani kesepakatan dengan organisasi esports?",
+          poin: [
+            "Mempelajari secara rinci klausul mengenai besaran hak gaji, pembagian hadiah turnamen, dan durasi ikatan kerja.",
+            "Melibatkan pertimbangan orang tua atau penasihat hukum independen guna memastikan klausul berjalan secara adil.",
+            "Menghindari sanksi penalti sepihak yang berpotensi membatasi perkembangan karier kompetitif di masa mendatang."
+          ]
+        },
+        {
+          id: "KOM-17",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana gathering luring antarguild dapat mencairkan ketegangan persaingan dan mempererat persaudaraan di dunia nyata?",
+          poin: [
+            "Membuka kesempatan mengenal karakter pribadi rekan bermain di balik nama samaran akun dalam suasana santai.",
+            "Mengadakan kegiatan ramah tamah dan diskusi santai yang mempertemukan para pengurus guild lintas daerah.",
+            "Mengubah rivalitas di dalam arena kompetisi menjadi kemitraan persahabatan yang produktif di kehidupan nyata."
+          ]
+        },
+        {
+          id: "KOM-18",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Apa saja kompetensi dasar yang dibutuhkan seorang event organizer lokal untuk menyelenggarakan turnamen yang tepat waktu dan tertib?",
+          poin: [
+            "Penyusunan jadwal pembagian slot pertandingan (match table) yang tegas serta disosialisasikan sejak awal pendaftaran.",
+            "Kesiapan tim teknis dalam mengantisipasi kendala jaringan internet dan koordinasi wasit ruang pertandingan.",
+            "Pemberian transparansi distribusi hadiah dan sertifikat pemenang sesuai kesepakatan buku aturan kejuaraan."
+          ]
+        },
+        {
+          id: "KOM-19",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Bagaimana media sosial komunitas dapat difungsikan secara optimal untuk mengapresiasi prestasi akademik para anggotanya?",
+          poin: [
+            "Membuat rubrik khusus yang merayakan kelulusan dan capaian prestasi sekolah anggota di kanal publikasi guild.",
+            "Membuktikan pada masyarakat luas bahwa hobi bermain gim dapat berjalan selaras dengan keunggulan akademik.",
+            "Menjadikan sosok anggota berprestasi sebagai motivasi teladan bagi rekan-rekan komunitas yang masih bersekolah."
+          ]
+        },
+        {
+          id: "KOM-20",
+          kategori: "komunitas",
+          kategoriLabel: "Komunitas & Industri",
+          teks: "Apa visi strategis yang harus dijaga agar ekosistem esports Free Fire terus menjadi wadah tumbuhnya industri kreatif pemuda tanah air?",
+          poin: [
+            "Mendorong kolaborasi lintas bidang antara atlet, kreator konten, desainer cinderamata, dan penyelenggara acara.",
+            "Menjadikan wadah komunitas sebagai sarana pembentukan karakter pemuda yang mandiri, sportif, dan berdaya saing.",
+            "Mempersiapkan talenta esports Indonesia agar mampu bersaing dan mengukir prestasi harum di tingkat internasional."
+          ]
+        },
+
+        // Pendidikan & Esports Free Fire (GYC)
+        {
+          id: "EDU-01",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana cara pemain muda Free Fire menjaga keseimbangan antara prestasi belajar di sekolah dan latihan turnamen?",
+          poin: [
+            "Manajemen waktu yang disiplin dalam mengatur jadwal harian.",
+            "Penyusunan skala prioritas yang mengutamakan kewajiban belajar sebelum sesi latihan gim.",
+            "Pembuktian bahwa hobi game tidak mengganggu nilai akademik."
+          ]
+        },
+        {
+          id: "EDU-02",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Apa peran Garena Youth Championship (GYC) dalam mewadahi bakat positif pelajar di Indonesia?",
+          poin: [
+            "Menyediakan wadah resmi esports berstandar nasional khusus tingkat sekolah.",
+            "Mengajarkan sportivitas sejak dini dan menanamkan etika kompetisi yang berintegritas.",
+            "Membangun mental kompetitif yang sehat bagi generasi muda pelajar."
+          ]
+        },
+        {
+          id: "EDU-03",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Soft skills apa saja dalam game Free Fire yang bisa diterapkan langsung dalam kehidupan sekolah?",
+          poin: [
+            "Kerja sama tim (teamwork) yang solid saat menyelesaikan tugas kelompok.",
+            "Kepemimpinan (leadership) dan komunikasi efektif dalam mengkoordinasikan sesama siswa.",
+            "Pengambilan keputusan cepat dan tepat dalam menghadapi tantangan belajar."
+          ]
+        },
+        {
+          id: "EDU-04",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana jalur esports seperti GYC dapat membuka peluang beasiswa pendidikan tinggi bagi pelajar berprestasi?",
+          poin: [
+            "Dukungan kampus/universitas terkemuka terhadap jalur penerimaan prestasi non-akademik.",
+            "Apresiasi institusi pendidikan terhadap atlet esports yang mengharumkan nama sekolah.",
+            "Jembatan menuju masa depan yang lebih cerah dan akses pendidikan yang luas."
+          ]
+        },
+        {
+          id: "EDU-05",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Mengapa dukungan dari sekolah dan orang tua sangat krusial bagi siswa yang mengikuti turnamen GYC?",
+          poin: [
+            "Membangun komunikasi yang terbuka dan saling percaya antara siswa, guru, dan keluarga.",
+            "Bimbingan moral agar siswa tetap fokus pada pendidikan utama sebagai prioritas.",
+            "Rasa bangga dan dukungan positif atas pencapaian prestasi sekolah di kancah nasional."
+          ]
+        },
+        {
+          id: "EDU-06",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana membentuk pola latihan Free Fire yang terstruktur tanpa mengorbankan waktu belajar?",
+          poin: [
+            "Menerapkan jam latihan ketat (misal 1-2 jam setelah belajar dan menyelesaikan pekerjaan rumah).",
+            "Menghindari kebiasaan begadang agar tubuh tetap bugar dan siap menyerap materi pelajaran.",
+            "Menjaga stamina tubuh agar tetap fokus, berenergi, dan aktif selama berada di kelas."
+          ]
+        },
+        {
+          id: "EDU-07",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana analisis strategi dalam Free Fire melatih pola pikir kritis dan analitis siswa?",
+          poin: [
+            "Perhitungan rotasi zona aman yang mengasah pemahaman spasial dan manajemen waktu.",
+            "Efisiensi penggunaan resource dan logistik perlengkapan tempur secara cermat.",
+            "Analisis data pertandingan untuk mengasah logika pemecahan masalah (problem solving)."
+          ]
+        },
+        {
+          id: "EDU-08",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana partisipasi dalam GYC dapat mempererat solidaritas antar siswa di lingkungan sekolah?",
+          poin: [
+            "Menghimpun dukungan dan persatuan antarteman kelas di lingkungan sekolah.",
+            "Membawa nama baik dan kebanggaan almamater sekolah ke tingkat nasional.",
+            "Memperkuat rasa kebersamaan dan persahabatan antarsiswa lintas jenjang kelas."
+          ]
+        },
+        {
+          id: "EDU-09",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Apa pelajaran mental terpenting yang didapat siswa saat menghadapi kekalahan di turnamen sekolah?",
+          poin: [
+            "Sikap pantang menyerah (resilience) untuk bangkit kembali lebih tangguh dari kegagalan.",
+            "Evaluasi diri secara obyektif tanpa mencari kambing hitam atau menyalahkan rekan satu tim.",
+            "Tidak mudah stres dan tetap tenang saat menghadapi tekanan tantangan belajar maupun kompetisi."
+          ]
+        },
+        {
+          id: "EDU-10",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Mengapa etika dan fair play dalam Free Fire sangat penting untuk membentuk karakter positif pelajar?",
+          poin: [
+            "Menghargai lawan bertanding dengan sikap rendah hati dan sportif.",
+            "Menolak segala bentuk kecurangan (cheating/toxic behavior) baik di dalam game maupun di luar.",
+            "Membawa sikap sopan dan santun dalam berinteraksi sehari-hari di lingkungan sekolah."
+          ]
+        },
+        {
+          id: "EDU-11",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana ajang GYC membantu meningkatkan literasi digital dan pemanfaatan teknologi secara bijak bagi siswa?",
+          poin: [
+            "Mengedukasi penggunaan perangkat digital secara produktif dan bertujuan positif.",
+            "Memanfaatkan media sosial untuk membangun reputasi kreatif yang menginspirasi.",
+            "Meningkatkan kesadaran akan keamanan siber dan penggunaan internet secara aman dan bertanggung jawab."
+          ]
+        },
+        {
+          id: "EDU-12",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana GYC membuka wawasan siswa mengenai berbagai profesi di industri esports selain menjadi pro player?",
+          poin: [
+            "Mengenalkan bidang event management dan tata kelola kompetisi profesional.",
+            "Membuka ketertarikan karier sebagai shoutcaster (komentator laga) dan analis pertandingan.",
+            "Mengembangkan keterampilan content creation, penulisan kreatif, serta video editing."
+          ]
+        },
+        {
+          id: "EDU-13",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana cara menjaga kesehatan mental saat harus membagi fokus antara ujian sekolah dan turnamen Free Fire?",
+          poin: [
+            "Penerapan teknik istirahat yang cukup dan tidur berkualitas di sela jadwal padat.",
+            "Rutin berolahraga ringan untuk menjaga kebugaran jasmani dan mengurangi ketegangan pikiran.",
+            "Pentingnya meluangkan waktu untuk refreshing yang seimbang bersama keluarga dan sahabat."
+          ]
+        },
+        {
+          id: "EDU-14",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Bagaimana partisipasi tim sekolah di GYC dapat menumbuhkan rasa bangga terhadap daerah asalnya?",
+          poin: [
+            "Membawa nama harum sekolah regional untuk bersaing di panggung nasional bergengsi.",
+            "Menginspirasi komunitas lokal dan pemuda daerah bahwa prestasi nasional dapat diraih dari mana saja.",
+            "Mengenalkan identitas dan potensi daerah asal melalui sorotan liputan media kejuaraan."
+          ]
+        },
+        {
+          id: "EDU-15",
+          kategori: "pendidikan",
+          kategoriLabel: "Pendidikan",
+          teks: "Mengapa kegiatan esports terarah seperti GYC mampu mengalihkan remaja dari pergaulan atau kegiatan negatif?",
+          poin: [
+            "Menyalurkan energi dan fokus remaja ke kegiatan kompetitif yang resmi dan terstruktur.",
+            "Memberikan target capaian prestasi yang jelas untuk dikejar bersama rekan tim.",
+            "Membangun lingkungan komunitas yang saling mendukung, disiplin, dan berorientasi positif."
+          ]
+        }
+      ];
+
+      // ==========================================
+      // 2. STATE APLIKASI
+      // ==========================================
+      let currentStep = 1; // 1: Spin, 2: Timer Sesi Bicara, 3: Pembahasan
+      let selectedCategory = 'all';
+      let currentTopic = null;
+      let isSpinning = false;
+      const historySet = new Set();
+
+      // Timer State
+      const INITIAL_TIME = 60; // 60 detik (01:00)
+      let timeRemaining = INITIAL_TIME;
+      let timerInterval = null;
+      let isTimerRunning = false;
+      let isTimerFinished = false;
+
+      // Navigasi Header
+      const stepNav1 = document.getElementById('step-nav-1');
+      const stepNav2 = document.getElementById('step-nav-2');
+      const stepNav3 = document.getElementById('step-nav-3');
+
+      // Elemen Langkah 1
+      const viewStep1 = document.getElementById('view-step-1');
+      const step1CategoryBadge = document.getElementById('step1-category-badge');
+      const step1IdBadge = document.getElementById('step1-id-badge');
+      const step1QuestionText = document.getElementById('step1-question-text');
+      const btnSpin = document.getElementById('btn-spin');
+      const btnSpinLabel = document.getElementById('btn-spin-label');
+      const btnGoToTimer = document.getElementById('btn-go-to-timer');
+      const step1EnterHint = document.getElementById('step1-enter-hint');
+      const btnCopyQuestion = document.getElementById('btn-copy-question');
+      const copyToast1 = document.getElementById('copy-toast-1');
+      const categoryButtons = document.querySelectorAll('.category-btn');
+
+      // Elemen Langkah 2 (Timer Layar Penuh)
+      const viewStep2 = document.getElementById('view-step-2');
+      const step2CategoryLabel = document.getElementById('step2-category-label');
+      const step2QuestionReminder = document.getElementById('step2-question-reminder');
+      const step2TimerBox = document.getElementById('step2-timer-box');
+      const step2TimerBadge = document.getElementById('step2-timer-badge');
+      const step2TimerDisplay = document.getElementById('step2-timer-display');
+      const step2TimerRing = document.getElementById('step2-timer-ring');
+      const step2TimerGlow = document.getElementById('step2-timer-glow');
+      const step2TimerSubtext = document.getElementById('step2-timer-subtext');
+      const step2TimerHint = document.getElementById('step2-timer-hint');
+      const btnTimerCancel = document.getElementById('btn-timer-cancel');
+      const btnGoToReview = document.getElementById('btn-go-to-review');
+
+      // Elemen Langkah 3 (Pembahasan Lengkap)
+      const viewStep3 = document.getElementById('view-step-3');
+      const step3CategoryBadge = document.getElementById('step3-category-badge');
+      const step3IdBadge = document.getElementById('step3-id-badge');
+      const step3QuestionHeading = document.getElementById('step3-question-heading');
+      const step3PointsList = document.getElementById('step3-points-list');
+      const btnNewTopic = document.getElementById('btn-new-topic');
+      const btnCopyReview = document.getElementById('btn-copy-review');
+      const btnRetryTimer = document.getElementById('btn-retry-timer');
+      const copyToast3 = document.getElementById('copy-toast-3');
+
+      // ==========================================
+      // 3. LOGIKA FILTER KATEGORI (LANGKAH 1)
+      // ==========================================
+      categoryButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          if (isSpinning) return;
+          categoryButtons.forEach(b => {
+            b.classList.remove('active', 'bg-brand-500', 'text-white', 'shadow-sm');
+            b.classList.add('text-slate-400');
+            b.setAttribute('aria-selected', 'false');
+          });
+          btn.classList.add('active', 'bg-brand-500', 'text-white', 'shadow-sm');
+          btn.classList.remove('text-slate-400');
+          btn.setAttribute('aria-selected', 'true');
+
+          selectedCategory = btn.getAttribute('data-category');
+          historySet.clear(); // Reset riwayat agar topik kategori baru dapat tampil penuh
+        });
+      });
+
+      function getFilteredPool() {
+        if (selectedCategory === 'all') return TOPIC_DATABASE;
+        return TOPIC_DATABASE.filter(t => t.kategori === selectedCategory);
+      }
+
+      // ==========================================
+      // 4. MEKANISME SPIN TOPIK (LANGKAH 1)
+      // ==========================================
+      function spinTopic() {
+        if (isSpinning) return;
+
+        const pool = getFilteredPool();
+        if (!pool || pool.length === 0) return;
+
+        // Cegah repetisi berurutan
+        let available = pool.filter(t => !historySet.has(t.id));
+        if (available.length === 0) {
+          historySet.clear();
+          if (currentTopic && pool.length > 1) {
+            historySet.add(currentTopic.id);
+          }
+          available = pool.filter(t => !historySet.has(t.id));
+          if (available.length === 0) available = pool;
+        }
+
+        const chosenIndex = Math.floor(Math.random() * available.length);
+        const finalTopic = available[chosenIndex];
+        historySet.add(finalTopic.id);
+
+        // Memulai efek animasi putar (Slot Machine Spin)
+        isSpinning = true;
+        btnSpin.setAttribute('disabled', 'true');
+        btnGoToTimer.setAttribute('disabled', 'true');
+        if (step1EnterHint) {
+          step1EnterHint.classList.add('opacity-0');
+          step1EnterHint.classList.remove('opacity-100');
+        }
+        btnSpinLabel.textContent = "Mengacak...";
+        step1QuestionText.classList.add('slot-spinning');
+
+        const totalDuration = 1300; // 1.3 detik durasi pengacakan
+        const startTime = Date.now();
+        let currentIntervalSpeed = 50;
+
+        function cycleNext() {
+          const elapsed = Date.now() - startTime;
+          const randomSample = pool[Math.floor(Math.random() * pool.length)];
+
+          // HANYA tampilkan 1 kalimat pertanyaan utama
+          step1QuestionText.textContent = randomSample.teks;
+          step1CategoryBadge.textContent = "Kategori: " + randomSample.kategoriLabel;
+          step1IdBadge.textContent = "ID: #" + randomSample.id;
+
+          if (elapsed < totalDuration) {
+            if (elapsed > totalDuration * 0.7) {
+              currentIntervalSpeed += 25;
+            } else if (elapsed > totalDuration * 0.4) {
+              currentIntervalSpeed += 10;
+            }
+            setTimeout(cycleNext, currentIntervalSpeed);
+          } else {
+            // Berhenti di topik terpilih dengan snap animation
+            step1QuestionText.classList.remove('slot-spinning');
+            step1QuestionText.classList.add('animate-slot-snap');
+
+            currentTopic = finalTopic;
+            step1QuestionText.textContent = finalTopic.teks;
+            step1CategoryBadge.textContent = "Kategori: " + finalTopic.kategoriLabel;
+            step1IdBadge.textContent = "ID: #" + finalTopic.id;
+
+            setTimeout(() => {
+              step1QuestionText.classList.remove('animate-slot-snap');
+              isSpinning = false;
+              btnSpin.removeAttribute('disabled');
+              btnSpinLabel.textContent = "Acak Topik";
+
+              // Aktifkan tombol lanjut ke Langkah 2: Sesi Bicara
+              btnGoToTimer.removeAttribute('disabled');
+              if (step1EnterHint) {
+                step1EnterHint.classList.remove('opacity-0');
+                step1EnterHint.classList.add('opacity-100');
+              }
+            }, 180);
+          }
+        }
+
+        cycleNext();
+      }
+
+      btnSpin.addEventListener('click', spinTopic);
+
+      // Salin Pertanyaan di Langkah 1
+      btnCopyQuestion.addEventListener('click', () => {
+        if (!currentTopic) return;
+        copyTextToClipboard(`Pertanyaan Topik: ${currentTopic.teks}\nKategori: ${currentTopic.kategoriLabel}`, copyToast1);
+      });
+
+      // ==========================================
+      // 5. MANAJEMEN NAVIGASI 3 LANGKAH
+      // ==========================================
+      function updateHeaderNav(step) {
+        currentStep = step;
+
+        // Reset class nav
+        [stepNav1, stepNav2, stepNav3].forEach((nav, idx) => {
+          if (idx + 1 === step) {
+            nav.className = "flex items-center space-x-1 px-2.5 py-1 rounded-md bg-brand-500 text-white shadow-sm transition-colors";
+          } else if (idx + 1 < step) {
+            nav.className = "flex items-center space-x-1 px-2.5 py-1 rounded-md bg-emerald-600/30 text-emerald-300 border border-emerald-500/30 transition-colors";
+          } else {
+            nav.className = "flex items-center space-x-1 px-2.5 py-1 rounded-md bg-slate-800 text-slate-500 border border-slate-700 transition-colors";
+          }
+        });
+      }
+
+      // Helper untuk class elemen SVG yang aman di semua browser
+      function setSvgClass(el, classStr) {
+        if (!el) return;
+        el.setAttribute('class', classStr);
+      }
+
+      // Pastikan topik selalu tersedia saat berpindah langkah
+      function ensureCurrentTopic() {
+        if (!currentTopic) {
+          const pool = getFilteredPool();
+          if (pool && pool.length > 0) {
+            currentTopic = pool[Math.floor(Math.random() * pool.length)];
+            step1QuestionText.textContent = currentTopic.teks;
+            step1CategoryBadge.textContent = "Kategori: " + currentTopic.kategoriLabel;
+            step1IdBadge.textContent = "ID: #" + currentTopic.id;
+            btnGoToTimer.removeAttribute('disabled');
+            if (step1EnterHint) {
+              step1EnterHint.classList.remove('opacity-0');
+              step1EnterHint.classList.add('opacity-100');
+            }
+          }
+        }
+      }
+
+      // Berpindah ke Langkah 1 (Spin Topik)
+      function showStep1() {
+        resetTimerState(); // Reset timer selalu kembali ke 01:00 saat kembali ke Langkah 1
+        updateHeaderNav(1);
+
+        viewStep2.classList.add('hidden');
+        viewStep3.classList.add('hidden');
+        viewStep1.classList.remove('hidden');
+
+        if (currentTopic && step1EnterHint) {
+          step1EnterHint.classList.remove('opacity-0');
+          step1EnterHint.classList.add('opacity-100');
+        }
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      // Berpindah ke Langkah 2 (Timer Layar Penuh)
+      function showStep2() {
+        ensureCurrentTopic();
+        if (!currentTopic) return;
+        updateHeaderNav(2);
+
+        // Isi pengingat pertanyaan ringkas di Halaman 2
+        step2CategoryLabel.textContent = currentTopic.kategoriLabel;
+        step2QuestionReminder.textContent = currentTopic.teks;
+
+        viewStep1.classList.add('hidden');
+        viewStep3.classList.add('hidden');
+        viewStep2.classList.remove('hidden');
+
+        // Lepas fokus dari tombol sebelumnya agar tombol Spasi tidak memicu klik ganda
+        if (document.activeElement && typeof document.activeElement.blur === 'function') {
+          document.activeElement.blur();
+        }
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        // Timer langsung berjalan otomatis (1 menit / 60 detik) saat masuk Langkah 2
+        resetTimerAndStart();
+      }
+
+      // Berpindah ke Langkah 3 (Pembahasan Lengkap)
+      function showStep3() {
+        ensureCurrentTopic();
+        if (!currentTopic) return;
+        pauseTimer();
+        updateHeaderNav(3);
+
+        // Isi konten pembahasan lengkap
+        step3CategoryBadge.textContent = "Kategori: " + currentTopic.kategoriLabel;
+        step3IdBadge.textContent = "ID: #" + currentTopic.id;
+        step3QuestionHeading.textContent = currentTopic.teks;
+
+        if (currentTopic.poin && currentTopic.poin.length > 0) {
+          step3PointsList.innerHTML = currentTopic.poin.map((p, i) => `
+            <li class="flex items-start space-x-3 bg-slate-950/40 p-3.5 rounded-xl border border-slate-800/80">
+              <span class="w-6 h-6 rounded-lg bg-brand-500/20 text-brand-500 font-bold text-xs flex items-center justify-center shrink-0 mt-0.5 border border-brand-500/30">
+                ${i + 1}
+              </span>
+              <span class="leading-relaxed text-slate-200">${p}</span>
+            </li>
+          `).join('');
+        }
+
+        viewStep1.classList.add('hidden');
+        viewStep2.classList.add('hidden');
+        viewStep3.classList.remove('hidden');
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      // Event Listener Navigasi Tombol
+      btnGoToTimer.addEventListener('click', showStep2);
+      btnTimerCancel.addEventListener('click', showStep1);
+      btnGoToReview.addEventListener('click', showStep3);
+
+      btnNewTopic.addEventListener('click', showStep1);
+      btnRetryTimer.addEventListener('click', showStep2);
+
+      // Event Listener Navigasi Header
+      if (stepNav1) {
+        stepNav1.style.cursor = 'pointer';
+        stepNav1.setAttribute('role', 'button');
+        stepNav1.setAttribute('tabindex', '0');
+        stepNav1.addEventListener('click', showStep1);
+      }
+      if (stepNav2) {
+        stepNav2.style.cursor = 'pointer';
+        stepNav2.setAttribute('role', 'button');
+        stepNav2.setAttribute('tabindex', '0');
+        stepNav2.addEventListener('click', showStep2);
+      }
+      if (stepNav3) {
+        stepNav3.style.cursor = 'pointer';
+        stepNav3.setAttribute('role', 'button');
+        stepNav3.setAttribute('tabindex', '0');
+        stepNav3.addEventListener('click', showStep3);
+      }
+
+      // Salin Pembahasan Lengkap di Langkah 3
+      btnCopyReview.addEventListener('click', () => {
+        if (!currentTopic) return;
+        const pointsFormatted = (currentTopic.poin || []).map((p, i) => `${i + 1}. ${p}`).join('\n');
+        const fullText = `Pertanyaan Topik: ${currentTopic.teks}\nKategori: ${currentTopic.kategoriLabel}\n\nPoin Pembuktian / Pembahasan:\n${pointsFormatted}`;
+        copyTextToClipboard(fullText, copyToast3);
+      });
+
+      // Helper Salin Clipboard
+      function copyTextToClipboard(text, toastElement) {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(() => showToast(toastElement));
+        } else {
+          const textarea = document.createElement('textarea');
+          textarea.value = text;
+          textarea.style.position = 'fixed';
+          textarea.style.left = '-9999px';
+          document.body.appendChild(textarea);
+          textarea.focus();
+          textarea.select();
+          document.execCommand('copy');
+          document.body.removeChild(textarea);
+          showToast(toastElement);
+        }
+      }
+
+      function showToast(el) {
+        if (!el) return;
+        el.classList.remove('opacity-0', 'pointer-events-none');
+        setTimeout(() => {
+          el.classList.add('opacity-0', 'pointer-events-none');
+        }, 1800);
+      }
+
+      // ==========================================
+      // 6. FITUR TIMER 1 MENIT KONTROL SPASI & PROGRESS RING
+      // ==========================================
+      const RING_RADIUS = 120;
+      const RING_CIRCUMFERENCE = 2 * Math.PI * RING_RADIUS; // 753.98
+
+      function formatTime(seconds) {
+        const m = Math.floor(seconds / 60);
+        const s = seconds % 60;
+        return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+      }
+
+      function updateTimerVisuals() {
+        step2TimerDisplay.textContent = formatTime(timeRemaining);
+        const progress = Math.max(0, Math.min(1, timeRemaining / INITIAL_TIME));
+        const offset = RING_CIRCUMFERENCE * (1 - progress);
+
+        if (step2TimerRing) {
+          step2TimerRing.style.strokeDashoffset = `${offset}`;
+          step2TimerRing.setAttribute('stroke-dashoffset', `${offset}`);
+        }
+
+        if (isTimerFinished) {
+          step2TimerBadge.textContent = "Waktu 1 Menit Habis";
+          step2TimerBadge.className = "text-xs sm:text-sm font-extrabold px-3.5 py-1 rounded-full bg-red-500/20 text-red-400 border border-red-500/30 tracking-wider uppercase animate-pulse-fast";
+          step2TimerDisplay.className = "font-mono text-5xl sm:text-7xl md:text-8xl font-black tracking-tight text-red-500 transition-colors duration-200 animate-pulse-fast drop-shadow-[0_0_24px_rgba(239,68,68,0.5)]";
+          setSvgClass(step2TimerRing, "text-red-500 drop-shadow-[0_0_16px_rgba(239,68,68,0.6)] animate-pulse-fast transition-[stroke-dashoffset] duration-1000 ease-linear");
+          setSvgClass(step2TimerGlow, "text-red-500/20");
+          if (step2TimerSubtext) {
+            step2TimerSubtext.textContent = "Waktu Selesai";
+            step2TimerSubtext.className = "text-xs sm:text-sm font-bold tracking-widest text-red-400 uppercase mt-1";
+          }
+          step2TimerBox.className = "w-full flex-1 flex flex-col items-center justify-center my-auto py-8 sm:py-12 bg-red-950/20 border border-red-500/40 rounded-3xl shadow-2xl shadow-red-500/10 relative overflow-hidden transition-all duration-300 cursor-pointer";
+          step2TimerHint.textContent = "Tekan Spasi untuk mengulang timer (01:00), atau klik tombol di bawah untuk pembahasan";
+        } else if (isTimerRunning) {
+          if (timeRemaining <= 10) {
+            step2TimerBadge.textContent = "10 Detik Terakhir";
+            step2TimerBadge.className = "text-xs sm:text-sm font-extrabold px-3.5 py-1 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30 tracking-wider uppercase animate-pulse-fast";
+            step2TimerDisplay.className = "font-mono text-5xl sm:text-7xl md:text-8xl font-black tracking-tight text-amber-400 transition-colors duration-200 animate-pulse-fast drop-shadow-[0_0_24px_rgba(251,191,36,0.5)]";
+            setSvgClass(step2TimerRing, "text-amber-400 drop-shadow-[0_0_16px_rgba(251,191,36,0.5)] animate-pulse-fast transition-[stroke-dashoffset] duration-1000 ease-linear");
+            setSvgClass(step2TimerGlow, "text-amber-500/20");
+            if (step2TimerSubtext) {
+              step2TimerSubtext.textContent = "Menjelang Selesai!";
+              step2TimerSubtext.className = "text-xs sm:text-sm font-bold tracking-widest text-amber-400 uppercase mt-1 animate-pulse-fast";
+            }
+          } else {
+            step2TimerBadge.textContent = "Timer Berjalan";
+            step2TimerBadge.className = "text-xs sm:text-sm font-extrabold px-3.5 py-1 rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 tracking-wider uppercase shadow-sm";
+            step2TimerDisplay.className = "font-mono text-5xl sm:text-7xl md:text-8xl font-black tracking-tight text-brand-500 transition-colors duration-200 drop-shadow-[0_0_24px_rgba(255,71,34,0.35)]";
+            setSvgClass(step2TimerRing, "text-brand-500 drop-shadow-[0_0_14px_rgba(255,71,34,0.45)] transition-[stroke-dashoffset] duration-1000 ease-linear");
+            setSvgClass(step2TimerGlow, "text-brand-500/15");
+            if (step2TimerSubtext) {
+              step2TimerSubtext.textContent = "Sesi Bicara 1 Menit";
+              step2TimerSubtext.className = "text-xs sm:text-sm font-bold tracking-widest text-slate-400 uppercase mt-1";
+            }
+          }
+
+          step2TimerBox.className = "w-full flex-1 flex flex-col items-center justify-center my-auto py-8 sm:py-12 bg-slate-900/80 border border-slate-800 rounded-3xl shadow-2xl shadow-black/60 relative overflow-hidden transition-all duration-300 cursor-pointer";
+          step2TimerHint.textContent = "Tekan Spasi untuk jeda (pause)";
+        } else if (timeRemaining < INITIAL_TIME) {
+          step2TimerBadge.textContent = "Jeda (Pause)";
+          step2TimerBadge.className = "text-xs sm:text-sm font-extrabold px-3.5 py-1 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30 tracking-wider uppercase";
+          step2TimerDisplay.className = "font-mono text-5xl sm:text-7xl md:text-8xl font-black tracking-tight text-slate-300 transition-colors duration-200 drop-shadow-lg";
+          setSvgClass(step2TimerRing, "text-amber-500/70 drop-shadow-none transition-none");
+          setSvgClass(step2TimerGlow, "text-amber-500/10");
+          if (step2TimerSubtext) {
+            step2TimerSubtext.textContent = "Timer Dijeda";
+            step2TimerSubtext.className = "text-xs sm:text-sm font-bold tracking-widest text-slate-400 uppercase mt-1";
+          }
+          step2TimerBox.className = "w-full flex-1 flex flex-col items-center justify-center my-auto py-8 sm:py-12 bg-slate-900/80 border border-slate-800 rounded-3xl shadow-2xl shadow-black/60 relative overflow-hidden transition-all duration-300 cursor-pointer";
+          step2TimerHint.textContent = "Tekan Spasi untuk melanjutkan hitungan";
+        } else {
+          // Kondisi Siap Awal (01:00)
+          step2TimerBadge.textContent = "Siap Memulai";
+          step2TimerBadge.className = "text-xs sm:text-sm font-extrabold px-3.5 py-1 rounded-full bg-slate-800 text-slate-400 border border-slate-700 tracking-wider uppercase";
+          step2TimerDisplay.className = "font-mono text-5xl sm:text-7xl md:text-8xl font-black tracking-tight text-brand-500 transition-colors duration-200 drop-shadow-[0_0_24px_rgba(255,71,34,0.35)]";
+          setSvgClass(step2TimerRing, "text-brand-500 drop-shadow-[0_0_14px_rgba(255,71,34,0.45)] transition-none");
+          setSvgClass(step2TimerGlow, "text-brand-500/15");
+          if (step2TimerSubtext) {
+            step2TimerSubtext.textContent = "Sesi Bicara 1 Menit";
+            step2TimerSubtext.className = "text-xs sm:text-sm font-bold tracking-widest text-slate-400 uppercase mt-1";
+          }
+          step2TimerBox.className = "w-full flex-1 flex flex-col items-center justify-center my-auto py-8 sm:py-12 bg-slate-900/80 border border-slate-800 rounded-3xl shadow-2xl shadow-black/60 relative overflow-hidden transition-all duration-300 cursor-pointer";
+          step2TimerHint.textContent = "Tekan Spasi untuk mulai / jeda timer";
+        }
+      }
+
+      function startTimer() {
+        if (timerInterval) {
+          clearInterval(timerInterval);
+          timerInterval = null;
+        }
+
+        // Jika waktu sudah habis, reset dulu ke awal
+        if (timeRemaining <= 0 || isTimerFinished) {
+          timeRemaining = INITIAL_TIME;
+          isTimerFinished = false;
+        }
+
+        isTimerRunning = true;
+        isTimerFinished = false;
+
+        if (step2TimerRing) {
+          step2TimerRing.style.transition = 'stroke-dashoffset 1s linear, stroke 0.3s ease';
+        }
+        updateTimerVisuals();
+
+        timerInterval = setInterval(() => {
+          if (!isTimerRunning) return;
+          timeRemaining--;
+          if (timeRemaining <= 0) {
+            timeRemaining = 0;
+            clearInterval(timerInterval);
+            timerInterval = null;
+            isTimerRunning = false;
+            isTimerFinished = true;
+          }
+          updateTimerVisuals();
+        }, 1000);
+      }
+
+      function pauseTimer() {
+        if (timerInterval) {
+          clearInterval(timerInterval);
+          timerInterval = null;
+        }
+        isTimerRunning = false;
+        if (step2TimerRing) {
+          step2TimerRing.style.transition = 'none';
+        }
+        updateTimerVisuals();
+      }
+
+      // Reset state timer kembali ke posisi awal 01:00 / 60 detik tanpa langsung auto-start
+      function resetTimerState() {
+        if (timerInterval) {
+          clearInterval(timerInterval);
+          timerInterval = null;
+        }
+        timeRemaining = INITIAL_TIME;
+        isTimerRunning = false;
+        isTimerFinished = false;
+
+        if (step2TimerRing) {
+          step2TimerRing.style.transition = 'none';
+          step2TimerRing.style.strokeDashoffset = '0';
+          step2TimerRing.setAttribute('stroke-dashoffset', '0');
+          void step2TimerRing.getBoundingClientRect(); // force DOM reflow
+        }
+        updateTimerVisuals();
+      }
+
+      // Reset state ke awal dan langsung mulai berjalan (Auto-Start Langkah 2)
+      function resetTimerAndStart() {
+        resetTimerState();
+        startTimer();
+      }
+
+      // Toggle pause dan resume / restart timer
+      function toggleTimer() {
+        if (isTimerFinished) {
+          resetTimerAndStart();
+        } else if (isTimerRunning) {
+          pauseTimer();
+        } else {
+          startTimer();
+        }
+      }
+
+      // Klik pada kotak modul timer untuk toggle pause / resume
+      if (step2TimerBox) {
+        step2TimerBox.addEventListener('click', (e) => {
+          if (e.target && e.target.tagName === 'BUTTON') return;
+          if (currentStep === 2) {
+            toggleTimer();
+          }
+        });
+      }
+
+      // Handler Keyboard Shortcut (Spasi & Enter)
+      window.addEventListener('keydown', (e) => {
+        // Abaikan jika pengguna sedang fokus pada input atau textarea form
+        if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT')) {
+          return;
+        }
+
+        // Shortcut Tombol Enter: Langsung berpindah ke Langkah 2 setelah spin topik selesai
+        if (e.code === 'Enter' || e.key === 'Enter' || e.keyCode === 13) {
+          if (currentStep === 1) {
+            // Aktif jika tidak sedang memutar topik dan topik sudah siap (tombol Mulai Sesi Bicara aktif)
+            if (!isSpinning && (currentTopic || !btnGoToTimer.hasAttribute('disabled'))) {
+              e.preventDefault();
+              showStep2();
+            }
+          }
+        }
+
+        // Shortcut Tombol Spasi: Acak topik di Langkah 1 & Kontrol Timer (Pause/Resume) di Langkah 2
+        if (e.code === 'Space' || e.key === ' ' || e.keyCode === 32) {
+          // Cegah scrolling halaman saat tombol spasi ditekan
+          e.preventDefault();
+
+          if (currentStep === 1) {
+            // Langkah 1: Picu spin acak topik jika tidak sedang berputar
+            if (!isSpinning) {
+              spinTopic();
+            }
+          } else if (currentStep === 2) {
+            // Langkah 2: Kontrol timer (Pause jika berjalan, Resume jika jeda, Restart jika selesai)
+            toggleTimer();
+          }
+        }
+      });
+
+    })();
+  </script>
+</body>
+</html>

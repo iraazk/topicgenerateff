@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "str-001",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana komunikasi yang singkat dan padat dapat mengubah hasil pertempuran tim pada fase akhir zona?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Pentingnya menghindari teriakan panik saat pertempuran sengit",
+      "Format informasi singkat: arah mata angin, jumlah lawan, dan sisa darah",
+      "Kunci ketenangan kapten dalam memandu rotasi darurat"
+    ]
+  },
+  {
+    "id": "str-002",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa peran utama seorang In-Game Leader (IGL) dalam menjaga kekompakan saat tim tertinggal poin?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mengevaluasi kesalahan tanpa menyalahkan individu di tengah pertandingan",
+      "Menetapkan target realistis untuk ronde berikutnya",
+      "Membangkitkan kembali fokus psikologis rekan satu tim"
+    ]
+  },
+  {
+    "id": "str-003",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Mengapa pembagian peran yang seimbang antara rusher, support, dan flanker lebih menentukan kemenangan dibanding kemampuan tembak individual?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Sinergi utilitas dan timing masuk ke garis depan",
+      "Peran support dalam menyediakan cover fire dan Gloo Wall",
+      "Disiplin posisi agar tidak terjadi tabrakan tugas di medan tempur"
+    ]
+  },
+  {
+    "id": "str-004",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Kapan saat yang tepat bagi kapten tim untuk memutuskan mundur dari pertempuran demi mengamankan poin penempatan?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Membaca kalkulasi risiko saat kehilangan satu pemain kunci",
+      "Menilai posisi geografis compound dan penyusutan zona berikutnya",
+      "Membedakan antara keberanian tanpa perhitungan dan strategi bertahan hidup"
+    ]
+  },
+  {
+    "id": "str-005",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana cara tim menyusun kesepakatan drop zone tanpa harus terlibat perang dini yang merugikan?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Memahami rute pesawat dan kebiasaan tim lawan di fase awal",
+      "Menentukan rencana cadangan jika lokasi utama telah ditempati tim lain",
+      "Mengutamakan kelengkapan perlengkapan sebelum melancarkan agresi"
+    ]
+  },
+  {
+    "id": "str-006",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa strategi paling efektif dalam pemanfaatan Gloo Wall untuk menyerang maupun bertahan di medan terbuka?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Teknik penempatan Gloo Wall ganda untuk menutup sudut pandang sniper",
+      "Penghematan Gloo Wall untuk kebutuhan pergerakan lintas zona",
+      "Berkomunikasi sebelum melempar utilitas granat pelindung"
+    ]
+  },
+  {
+    "id": "str-007",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana kapten tim menanamkan budaya disiplin rotasi agar tidak terlambat memasuki zona aman?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menetapkan penanda waktu baku untuk mulai bergerak",
+      "Memilih antara rotasi pinggir zona atau langsung menguasai pusat compound",
+      "Mengurangi durasi looting yang tidak esensial di pertengahan laga"
+    ]
+  },
+  {
+    "id": "str-008",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana menganalisis kebiasaan rotasi tim rival berdasarkan data rekaman pertandingan sebelumnya?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Mencatat rute favorit dan waktu keberangkatan tim lawan dari drop zone",
+      "Mengidentifikasi choke point rawan jebakan di setiap peta",
+      "Menyusun skenario pemotongan rotasi tanpa membahayakan formasi sendiri"
+    ]
+  },
+  {
+    "id": "str-009",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Mengapa sikap saling percaya antara rusher dan pelapis tembakan menjadi fondasi utama eksekusi serangan?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Keberanian maju hanya muncul jika ada kepastian perlindungan dari belakang",
+      "Pentingnya umpan balik konstruktif setelah inisiasi serangan selesai",
+      "Membangun insting koordinasi melalui latihan teratur"
+    ]
+  },
+  {
+    "id": "str-010",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana mengelola emosi anggota tim saat menghadapi kekalahan beruntun dalam turnamen dengan format banyak ronde?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Penerapan jeda reset pikiran sebelum ronde berikutnya dimulai",
+      "Fokus pada hal yang masih bisa dikontrol, bukan hasil ronde lampau",
+      "Bahasa tubuh dan intonasi suara positif dari sang kapten"
+    ]
+  },
+  {
+    "id": "str-011",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa nilai strategis dari penguasaan kendaraan di peta besar seperti Bermuda dan Purgatory?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Kecepatan mengamankan posisi bukit strategis sebelum tim lain tiba",
+      "Penggunaan kendaraan sebagai barikade tambahan di area datar",
+      "Mitigasi risiko tembakan musuh melalui rute jalan pintas"
+    ]
+  },
+  {
+    "id": "str-012",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana seorang kapten mengambil keputusan berani saat zona menyusut ke arah yang sangat tidak menguntungkan?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menerima kenyataan medan tempur tanpa membuang waktu mengeluh",
+      "Memilih opsi dengan peluang korban paling kecil bagi seluruh tim",
+      "Kecepatan inisiasi pembersihan compound musuh terdekat sebagai pijakan baru"
+    ]
+  },
+  {
+    "id": "str-013",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Mengapa pembagian sumber daya amunisi dan medkit harus diatur secara sistematis di dalam skuad?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Memastikan rusher utama selalu memiliki suplai pelindung maksimal",
+      "Mencegah penimbunan perlengkapan berlebih pada satu pemain",
+      "Efisiensi ruang inventaris untuk perlengkapan peledak dan utilitas"
+    ]
+  },
+  {
+    "id": "str-014",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana cara melakukan rotasi senyap untuk mengejutkan lawan yang sedang bertahan di dalam bangunan?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Pengendalian langkah kaki dan penyamaran suara pergerakan",
+      "Pemanfaatan pengalih perhatian dari sudut berlawanan",
+      "Kombinasi lemparan granat masak dan serbuan serentak"
+    ]
+  },
+  {
+    "id": "str-015",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa indikator utama bahwa sebuah rencana permainan perlu diubah secara drastis di tengah turnamen?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Ketika gaya permainan pasif justru menghasilkan pengurangan poin berturut-turut",
+      "Perubahan perilaku mayoritas tim lawan di zona awal",
+      "Kesiapan mental anggota tim dalam mengadopsi taktik alternatif"
+    ]
+  },
+  {
+    "id": "str-016",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana membentuk rasa tanggung jawab bersama saat terjadi kegagalan eksekusi strategi?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menghilangkan kebiasaan mencari kambing hitam dalam evaluasi skuad",
+      "Mencatat solusi perbaikan konkrit untuk sesi latihan berikutnya",
+      "Menghargai usaha setiap anggota yang telah mematuhi instruksi"
+    ]
+  },
+  {
+    "id": "str-017",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa pentingnya penguasaan posisi dataran tinggi (high ground) dalam mengontrol pergerakan musuh?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Luasnya jarak pandang untuk mendeteksi rotasi tim lain lebih awal",
+      "Kemudahan sudut tembak terhadap lawan yang terperangkap di lembah",
+      "Keuntungan perlindungan alami kontur tanah saat bertukar tembakan"
+    ]
+  },
+  {
+    "id": "str-018",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana cara menjaga koordinasi tim saat satu pemain terpisah jauh akibat situasi darurat?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Instruksi bertahan hidup bagi pemain tunggal untuk mengumpulkan poin eliminasi sisa",
+      "Komunikasi visual melalui tanda peta tanpa memenuhi frekuensi suara",
+      "Penetapan titik temu yang aman sebelum lingkaran zona berikutnya menutup"
+    ]
+  },
+  {
+    "id": "str-019",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Mengapa fleksibilitas peran cadangan penting disiapkan dalam setiap sesi latihan resmi tim?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Kesiapan seorang support mengambil alih komando jika IGL tumbang lebih awal",
+      "Adaptasi terhadap karakter permainan lawan yang berbeda di setiap bagan turnamen",
+      "Mencegah ketergantungan mutlak pada satu sosok pemain bintang"
+    ]
+  },
+  {
+    "id": "str-020",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa peran etika komunikasi antarpemain dalam membangun kepercayaan jangka panjang di dalam tim?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Penggunaan kalimat apresiasi setelah keberhasilan penyelamatan rekan",
+      "Menghindari kata-kata yang menjatuhkan rasa percaya diri rekan setim",
+      "Menjaga nada bicara tetap tenang di bawah tekanan waktu"
+    ]
+  },
+  {
+    "id": "str-021",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana menyusun formasi bertahan segitiga yang rapat saat menjaga area compound dari serbuan multi-tim?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Pembagian sudut pengawasan 360 derajat tanpa meninggalkan titik buta",
+      "Penyediaan jalur mundur darurat jika lantai dasar berhasil diterobos",
+      "Pengaturan rotasi pengisian ulang darah saat satu sisi sedang ditembaki"
+    ]
+  },
+  {
+    "id": "str-022",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana menyeimbangkan antara ambisi mengumpulkan poin eliminasi dan disiplin mengamankan posisi akhir?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menghitung perbandingan bobot poin eliminasi terhadap poin penempatan",
+      "Menilai kesiapan perlengkapan sebelum memaksakan pertempuran terbuka",
+      "Membaca sisa jumlah tim yang masih bertahan di dalam lingkaran pertempuran"
+    ]
+  },
+  {
+    "id": "str-023",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa yang membuat sebuah kepemimpinan di tim esports mampu bertahan melewati masa-masa regenerasi anggota?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Penyusunan standar operasional latihan yang jelas bagi pemain baru",
+      "Transparansi dalam pembagian peran dan kesempatan bertanding",
+      "Kemampuan mendengarkan masukan dari sudut pandang pemain generasi muda"
+    ]
+  },
+  {
+    "id": "str-024",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana cara melatih kecepatan pengambilan keputusan kapten di bawah simulasi situasi genting?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mengadakan skenario latihan dengan sengaja mengurangi jumlah perlengkapan",
+      "Memutar ulang rekaman pertandingan dan menganalisis opsi alternatif dalam 5 detik",
+      "Membiasakan komando tegas dengan argumen yang jelas pasca-pertandingan"
+    ]
+  },
+  {
+    "id": "str-025",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Mengapa pemahaman batas waktu penyusutan zona menjadi dasar penentuan rute pergerakan tim?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Mencegah kerugian darah yang tidak perlu akibat terjebak radiasi luar zona",
+      "Memperkirakan titik temu di mana tim lain kemungkinan besar akan berpapasan",
+      "Menentukan waktu yang tepat untuk mulai menembak atau tetap bersembunyi"
+    ]
+  },
+  {
+    "id": "str-026",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana memaksimalkan peran pengintai (scout) dalam mengumpulkan informasi posisi musuh tanpa terdeteksi?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Pemanfaatan celah bukit dan pepohonan untuk mengamati tanpa menembak",
+      "Pelaporan jenis senjata yang digunakan oleh skuad yang sedang dipantau",
+      "Disiplin menahan diri agar posisi rahasia tim utama tidak terbongkar"
+    ]
+  },
+  {
+    "id": "str-027",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa saja langkah preventif untuk menghindari jebakan perang pihak ketiga (third party) di area ramai?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menetapkan batas waktu durasi perang maksimal satu menit di lokasi terbuka",
+      "Menempatkan satu pemain pengawas belakang saat tim utama melancarkan serangan",
+      "Segera mengambil perlengkapan esensial dan berpindah posisi setelah memenangkan baku tembak"
+    ]
+  },
+  {
+    "id": "str-028",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana menyusun protokol pembagian peran khusus saat menghadapi situasi pertempuran satu lawan satu tim?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Penyebaran sudut silang tembakan (crossfire) untuk mengunci pergerakan lawan",
+      "Penggunaan granat asap untuk memecah formasi musuh yang berkumpul",
+      "Komunikasi hitungan mundur saat melancarkan serbuan serentak dari dua arah"
+    ]
+  },
+  {
+    "id": "str-029",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa makna kepemimpinan yang melayani dalam konteks seorang kapten tim Free Fire?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Kesediaan merelakan perlengkapan terbaik demi keselamatan pemain kunci",
+      "Mengutamakan perkembangan mental rekan tim di atas pencapaian pribadi",
+      "Menjadi teladan dalam ketepatan waktu hadir dan kedisiplinan jadwal latihan"
+    ]
+  },
+  {
+    "id": "str-030",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana cara menyusun buku panduan taktik mandiri untuk tim komunitas yang sedang berkembang?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mendokumentasikan nama panggilan untuk setiap titik penting pada peta utama",
+      "Menetapkan rencana drop zone dan rute rotasi baku untuk setiap skenario zona",
+      "Mencatat kombinasi keahlian karakter yang saling melengkapi kebutuhan skuad"
+    ]
+  },
+  {
+    "id": "str-031",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Bagaimana tim menjaga keharmonisan internal ketika terjadi perbedaan pendapat tajam antara kapten dan anggota senior?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Pemisahan tegas antara ruang diskusi taktis dan waktu santai di luar pertandingan",
+      "Keberadaan pihak penengah yang netral seperti pelatih atau manajer tim",
+      "Komitmen mematuhi satu komando penuh saat pertandingan resmi sedang berjalan"
+    ]
+  },
+  {
+    "id": "str-032",
+    "kategori": "strategi-dan-kepemimpinan",
+    "teks": "Apa pesan utama tentang pentingnya integritas kepemimpinan dalam olahraga elektronik kompetitif?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menolak segala bentuk kecurangan dan menjunjung tinggi sportivitas",
+      "Menghargai aturan penyelenggara turnamen dan keputusan wasit",
+      "Mewariskan nilai kejujuran bagi generasi penerus di komunitas"
+    ]
+  },
+  {
+    "id": "ins-001",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Pelajaran berharga apa yang bisa dipetik dari pemain yang mengawali mimpinya dari turnamen antarkampung hingga ke panggung dunia?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Keterbatasan perangkat awal tidak menghalangi tumbuhnya bakat besar",
+      "Konsistensi latihan mandiri di tengah segala keterbatasan fasilitas",
+      "Rasa hormat yang tinggi kepada komunitas awal tempat pertama kali bertumbuh"
+    ]
+  },
+  {
+    "id": "ins-002",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana atlet esports profesional menjaga ketangguhan mental saat menghadapi masa paceklik gelar juara?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Memandang kegagalan sebagai bahan analisis mendalam, bukan akhir karier",
+      "Menjaga rutinitas latihan fisik dan istirahat agar tidak mengalami kejenuhan",
+      "Dukungan keluarga dan tim pelatih sebagai jangkar emosional"
+    ]
+  },
+  {
+    "id": "ins-003",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Mengapa disiplin menjaga pola tidur dan kebugaran fisik menjadi rahasia umur panjang karier seorang atlet pro?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Korelasi langsung antara kebugaran jasmani dan kecepatan refleks motorik",
+      "Mencegah cedera pergelangan tangan dan ketegangan otot leher kronis",
+      "Daya tahan konsentrasi saat harus bertanding dalam format turnamen seharian"
+    ]
+  },
+  {
+    "id": "ins-004",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana cara pemain profesional membagi waktu antara kewajiban pendidikan formal dan ambisi meraih prestasi esports?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Manajemen jadwal harian yang ketat dan tidak menunda pekerjaan rumah",
+      "Komunikasi terbuka dengan orang tua dan pihak sekolah mengenai target karier",
+      "Memahami bahwa kecerdasan akademik menunjang kemampuan analitis di dalam gim"
+    ]
+  },
+  {
+    "id": "ins-005",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa arti konsistensi sejati dalam rutinitas latihan harian seorang penembak jitu (sniper) tingkat nasional?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mengulang latihan bidikan dasar ribuan kali meski terasa monoton",
+      "Mengevaluasi rekaman kesalahan penempatan posisi setiap malam",
+      "Fokus pada penyempurnaan teknik daripada sekadar mengejar status populer"
+    ]
+  },
+  {
+    "id": "ins-006",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana sosok pemain legendaris menginspirasi generasi muda melalui kerendahan hati saat berada di puncak popularitas?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Tetap meluangkan waktu menyapa pendukung dan berbagi ilmu dengan pemula",
+      "Tidak menyombongkan pencapaian masa lalu di hadapan penantang baru",
+      "Menggunakan pengaruh media sosial untuk menyebarkan pesan positif"
+    ]
+  },
+  {
+    "id": "ins-007",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Langkah apa yang dilakukan atlet profesional saat harus beradaptasi dengan perubahan gaya permainan setelah perombakan pembaruan gim?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Meninggalkan zona nyaman strategi lama dengan pikiran terbuka",
+      "Melakukan uji coba ratusan kombinasi karakter dan senjata baru",
+      "Kerja sama intensif dengan staf pelatih untuk merumuskan meta tandingan"
+    ]
+  },
+  {
+    "id": "ins-008",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana cara mengubah kritik tajam dari publik menjadi dorongan semangat untuk membuktikan kualitas diri di atas panggung?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menyaring kritik yang bernilai teknis dan mengabaikan cemoohan destruktif",
+      "Menjadikan keraguan orang lain sebagai energi latihan ekstra",
+      "Menjawab segala keraguan dengan peningkatan performa nyata di arena"
+    ]
+  },
+  {
+    "id": "ins-009",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa makna rasa hormat terhadap lawan bertanding setelah peluit akhir pertandingan dibunyikan?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Tradisi jabat tangan dan saling memberi selamat tanpa memandang hasil akhir",
+      "Menghargai perjuangan dan persiapan keras yang telah dilakukan rival",
+      "Menyadari bahwa rivalitas sehat adalah penggerak kemajuan industri esports"
+    ]
+  },
+  {
+    "id": "ins-010",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana seorang pemain veteran dapat bertransformasi menjadi mentor yang membimbing talenta muda di dalam organisasinya?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menekan ego pribadi demi memberikan jam terbang bertanding bagi pemain muda",
+      "Membagikan pengalaman manajemen panggung dan cara mengatasi ketegangan mental",
+      "Membantu pemain junior memahami tanggung jawab profesional di luar arena"
+    ]
+  },
+  {
+    "id": "ins-011",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Mengapa kejujuran dan kepatuhan penuh pada peraturan anti-kecurangan adalah harga mati bagi reputasi seorang atlet?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Satu tindakan curang dapat menghancurkan karier yang dibangun bertahun-tahun",
+      "Kemenangan sejati hanya bernilai jika diraih dengan cara yang adil dan bersih",
+      "Tanggung jawab moral sebagai panutan bagi jutaan penggemar muda"
+    ]
+  },
+  {
+    "id": "ins-012",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana kisah perjuangan pemain yang pulih dari cedera tangan dan berhasil bangkit merebut kembali tempat di skuad utama?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Disiplin menjalani terapi medis tanpa memaksakan diri sebelum waktunya",
+      "Menjaga ketajaman wawasan taktis melalui pengamatan video dari bangku cadangan",
+      "Ketabahan mental melewati masa-masa ketidakpastian karier"
+    ]
+  },
+  {
+    "id": "ins-013",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa yang membuat seorang pemain mampu tampil tenang dan percaya diri di hadapan ribuan penonton panggung langsung?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Latihan pernapasan dan visualisasi kemenangan sebelum memasuki bilik laga",
+      "Fokus penuh pada layar monitor dan instruksi suara rekan satu tim",
+      "Memandang gemuruh penonton sebagai energi pendukung, bukan ancaman"
+    ]
+  },
+  {
+    "id": "ins-014",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana atlet esports membangun literasi pengelolaan keuangan sejak usia muda untuk menjamin masa depan?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Memisahkan pendapatan hadiah turnamen untuk investasi dan tabungan jangka panjang",
+      "Menghindari gaya hidup konsumtif berlebihan yang sering menjebak usia muda",
+      "Mempersiapkan rencana pendidikan lanjutan atau bekal modal usaha mandiri"
+    ]
+  },
+  {
+    "id": "ins-015",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Mengapa rasa syukur dan kedekatan dengan keluarga menjadi pondasi ketenangan jiwa seorang juara?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Doa dan restu orang tua sebagai sumber kekuatan moral sebelum bertanding",
+      "Keluarga sebagai tempat pulang ternyaman di saat hasil laga tidak sesuai harapan",
+      "Mengingat tujuan awal berjuang demi mengangkat derajat keluarga"
+    ]
+  },
+  {
+    "id": "ins-016",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana cara pemain profesional menjaga hubungan persahabatan yang erat di luar panggung meski bersaing sengit di dalam gim?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Pemisahan profesionalisme kerja di arena dengan pertemanan di kehidupan nyata",
+      "Saling bertukar kabar dan mendukung perjalanan hidup di luar kompetisi",
+      "Membangun komunitas pemain yang solid dan saling menguatkan"
+    ]
+  },
+  {
+    "id": "ins-017",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa teladan yang ditunjukkan seorang atlet saat timnya mengalami kekalahan menyakitkan di partai puncak?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menerima kekalahan dengan kepala tegak tanpa mencari alasan pembenaran",
+      "Mengakui keunggulan strategi lawan secara kesatria di sesi wawancara",
+      "Menjadikan rasa pedih kekalahan sebagai bahan bakar persiapan musim selanjutnya"
+    ]
+  },
+  {
+    "id": "ins-018",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana pemain pro memanfaatkan peran media sosial untuk mengedukasi penggemar mengenai cara bermain yang cerdas dan sportif?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Membuat konten edukasi teknik dan analisis situasi pertempuran secara gratis",
+      "Menyuarakan penolakan terhadap ujaran kebencian di kolom komentar komunitas",
+      "Memberikan contoh tutur kata yang santun selama sesi siaran langsung"
+    ]
+  },
+  {
+    "id": "ins-019",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Mengapa kegigihan mengasah reflek gerak mikro setiap hari lebih bernilai daripada sekadar mengandalkan bakat alamiah?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Bakat tanpa kerja keras akan selalu kalah dari kerja keras yang konsisten",
+      "Pengulangan rutin membentuk memori otot yang bekerja otomatis saat terdesak",
+      "Rasa lapar untuk terus berkembang mencegah rasa puas diri yang menjebak"
+    ]
+  },
+  {
+    "id": "ins-020",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana proses penyesuaian diri seorang pemain daerah saat pertama kali bergabung dengan fasilitas pemusatan latihan di ibu kota?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menyesuaikan diri dengan pola makan, jadwal olahraga, dan budaya hidup bersama",
+      "Mengatasi rasa rindu kampung halaman dengan tetap fokus pada cita-cita besar",
+      "Membangun komunikasi kekeluargaan dengan rekan setim dari latar belakang berbeda"
+    ]
+  },
+  {
+    "id": "ins-021",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa makna dari komitmen membela nama bangsa di kejuaraan esports tingkat internasional?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menanggalkan sekat rivalitas antartim demi mengibarkan bendera merah putih",
+      "Menjaga sikap dan kehormatan bangsa selama berada di negara tuan rumah",
+      "Menyadari bahwa setiap poin perjuangan didukung oleh jutaan doa masyarakat"
+    ]
+  },
+  {
+    "id": "ins-022",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana atlet pro menyikapi ekspektasi tinggi dan tekanan besar dari komunitas pendukung?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Memahami bahwa ekspektasi tinggi adalah wujud cinta dan perhatian tulus dari suporter",
+      "Memusatkan perhatian pada proses pelaksanaan tugas daripada memikirkan hasil akhir",
+      "Menjaga batasan pribadi untuk menjaga kedamaian pikiran sebelum bertanding"
+    ]
+  },
+  {
+    "id": "ins-023",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa yang bisa dipelajari dari atlet yang tetap rendah hati dan bersedia belajar hal baru meski telah berstatus juara dunia?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Kesadaran bahwa ilmu taktik esports selalu berkembang dan tidak pernah statis",
+      "Menghormati masukan dari analis baru yang memiliki sudut pandang segar",
+      "Menjadikan piala juara sebagai pengingat untuk bekerja lebih keras lagi"
+    ]
+  },
+  {
+    "id": "ins-024",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana cara atlet pro menjaga motivasi latihan tetap membara saat turnamen besar masih berbulan-bulan ke depan?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menetapkan target-target kecil yang terukur dalam evaluasi mingguan",
+      "Mencoba tantangan peran baru dalam pertandingan latih tanding non-resmi",
+      "Mengingat kembali alasan pertama kali jatuh cinta pada dunia kompetisi"
+    ]
+  },
+  {
+    "id": "ins-025",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Mengapa sportivitas mengakui kekalahan tanpa menyalahkan kendala teknis mencerminkan kedewasaan sejati seorang atlet?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menghargai jerih payah panitia pelaksana turnamen dan tim penyiaran",
+      "Memberikan ruang bagi lawan untuk merayakan kemenangan mereka secara terhormat",
+      "Menunjukkan pada publik bahwa integritas berada di atas segalanya"
+    ]
+  },
+  {
+    "id": "ins-026",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana kisah seorang kapten tim yang berhasil menyatukan empat kepribadian yang berbeda menjadi satu kekuatan tak terkalahkan?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Pendekatan personal dari hati ke hati di luar sesi latihan gim",
+      "Menghargai kelebihan masing-masing anggota tanpa membanding-bandingkan",
+      "Menyelaraskan visi bersama untuk mencapai satu tujuan tertinggi"
+    ]
+  },
+  {
+    "id": "ins-027",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa kiat penting bagi pemain pro dalam menjaga kesehatan mata saat dituntut menatap layar monitor dengan fokus tinggi?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menerapkan aturan istirahat berkala untuk mengistirahatkan otot mata",
+      "Penggunaan pencahayaan ruangan yang cukup dan kacamata pelindung radiasi",
+      "Rutin melakukan senam mata dan memperbanyak konsumsi makanan bergizi"
+    ]
+  },
+  {
+    "id": "ins-028",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana perjalanan pemain cadangan yang sabar menanti kesempatan hingga menjadi pahlawan kemenangan di laga final?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Tetap berlatih dengan intensitas yang sama dengan skuad inti tanpa mengeluh",
+      "Kesiapan mental untuk dipanggil kapan saja saat tim membutuhkan rotasi darurat",
+      "Membuktikan bahwa setiap anggota skuad memiliki kontribusi krusial"
+    ]
+  },
+  {
+    "id": "ins-029",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Mengapa kesetiaan pada organisasi di masa-masa sulit menunjukkan karakter kepemimpinan yang berintegritas tinggi?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menghargai investasi moral dan fasilitas yang telah diberikan tim sejak masa awal",
+      "Bersama-sama membangun kembali fondasi skuad dari bawah menuju kejayaan",
+      "Menciptakan warisan sejarah yang abadi dan dihormati oleh seluruh komunitas"
+    ]
+  },
+  {
+    "id": "ins-030",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Bagaimana pro player membagikan ilmu navigasi dan kesadaran peta (map awareness) kepada para pemula secara sederhana?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menjelaskan cara membaca tanda pertempuran dari indikator tembakan di peta kecil",
+      "Mengajarkan pentingnya memperkirakan posisi lawan berdasarkan arah suara langkah",
+      "Mendorong pemula untuk membiasakan diri melihat peta setiap lima detik"
+    ]
+  },
+  {
+    "id": "ins-031",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Apa makna dari sikap tidak pernah berpuas diri bagi tim yang berhasil mempertahankan gelar juara berturut-turut?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menyadari bahwa mempertahankan gelar jauh lebih sulit daripada merebutnya",
+      "Terus berinovasi mencari strategi baru sebelum taktik lama terbaca oleh kompetitor",
+      "Menjaga etos kerja tetap rendah hati seolah-olah belum pernah meraih apa pun"
+    ]
+  },
+  {
+    "id": "ins-032",
+    "kategori": "inspirasi-pro-player",
+    "teks": "Pesan inspiratif apa yang selalu disampaikan para juara dunia tentang pentingnya bermimpi besar dan berani memulai?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Setiap pemain bintang hebat berawal dari seorang pemula yang tidak pernah berhenti berusaha",
+      "Jangan biarkan cemoohan orang membatasi potensi diri untuk berprestasi",
+      "Jadikan setiap pertandingan sebagai arena belajar dan menempa karakter juara"
+    ]
+  },
+  {
+    "id": "kom-001",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana inisiatif turnamen amal komunitas Free Fire dapat membantu korban bencana alam di daerah?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Penggalangan donasi melalui siaran langsung pertandingan komunitas",
+      "Keterlibatan guild lokal dalam menyalurkan bantuan langsung ke lokasi bencana",
+      "Membangun citra gamer yang peduli dan tanggap terhadap isu sosial kemanusiaan"
+    ]
+  },
+  {
+    "id": "kom-002",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Langkah konkrit apa yang dapat diambil pengelola guild untuk menciptakan ruang bermain yang ramah dan bebas dari perilaku perundungan?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Penyusunan aturan internal yang melarang penggunaan kata-kata merendahkan",
+      "Pemberian sanksi tegas bagi anggota yang memicu perselisihan tidak sehat",
+      "Penciptaan budaya saling menyemangati saat anggota baru melakukan kesalahan"
+    ]
+  },
+  {
+    "id": "kom-003",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana komunitas kampus dan sekolah dapat memanfaatkan gim Free Fire untuk mengasah kepemimpinan dan manajemen organisasi mahasiswa?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Pengelolaan acara turnamen resmi melatih pembuatan proposal, sponsorship, dan logistik",
+      "Penerapan struktur kerja kepanitiaan yang menuntut akuntabilitas laporan keuangan",
+      "Kolaborasi antardepartemen kampus untuk menyukseskan gelaran acara"
+    ]
+  },
+  {
+    "id": "kom-004",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Mengapa sportivitas komunitas menjadi faktor kunci dalam menarik dukungan sponsor lokal bagi penyelenggaraan turnamen daerah?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Jenama bisnis ingin diasosiasikan dengan acara yang tertib, bersih, dan beradab",
+      "Penonton yang santun menciptakan suasana acara yang nyaman bagi semua kalangan",
+      "Membuka peluang kerja sama berkelanjutan untuk kegiatan pembinaan pemuda"
+    ]
+  },
+  {
+    "id": "kom-005",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana cara komunitas menjembatani komunikasi positif antara orang tua dan anak mengenai hobi bermain gim kompetitif?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Mengadakan sesi diskusi mengundang orang tua untuk melihat proses latihan teratur",
+      "Menunjukkan contoh nyata alumni komunitas yang sukses berprestasi dan berkarakter baik",
+      "Menyepakati batasan waktu bermain yang seimbang dengan waktu belajar dan keluarga"
+    ]
+  },
+  {
+    "id": "kom-006",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Apa peran kegiatan kumpul komunitas (gathering) luring dalam mempererat persaudaraan lintas suku dan wilayah?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Mengenal sosok teman bermain di balik nama samaran akun dalam kehidupan nyata",
+      "Mencairkan ketegangan persaingan kompetisi melalui kegiatan ramah tamah",
+      "Memperluas jaringan pertemanan dan peluang kerja sama profesional di masa depan"
+    ]
+  },
+  {
+    "id": "kom-007",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana komunitas Free Fire dapat mengambil peran aktif dalam mengkampanyekan budaya literasi digital dan keamanan data pribadi?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mengedukasi anggota agar waspada terhadap tautan palsu dan pencurian akun",
+      "Mendorong etika bersosial media yang cerdas dan bertanggung jawab",
+      "Mengajarkan cara mengamankan kata sandi dan verifikasi ganda pada akun gim"
+    ]
+  },
+  {
+    "id": "kom-008",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana merancang program pendampingan (mentorship) dari pemain senior untuk membina talenta pemula di tingkat daerah?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Sesi bedah taktik mingguan secara daring tanpa memungut biaya dari peserta",
+      "Latihan tanding bersama secara bergiliran dengan format evaluasi terarah",
+      "Penanaman pola pikir sportif dan kedisiplinan sejak level akar rumput"
+    ]
+  },
+  {
+    "id": "kom-009",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Mengapa gerakan anti-toksik di ruang obrolan gim penting untuk menjaga kenyamanan pemain perempuan dan pemula?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Setiap pemain memiliki hak yang sama untuk menikmati gim dengan aman dan bermartabat",
+      "Lingkungan inklusif mempercepat regenerasi bakat-bakat baru yang beragam",
+      "Menghilangkan stigma negatif bahwa komunitas gim tidak ramah terhadap pendatang baru"
+    ]
+  },
+  {
+    "id": "kom-010",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana komunitas guild dapat menginisiasi aksi pelestarian lingkungan seperti penanaman pohon bersama?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mengubah pencapaian target poin permainan menjadi dana bibit tanaman nyata",
+      "Mengajak anggota berkumpul di akhir pekan untuk aksi bersih lingkungan sekitar",
+      "Membuktikan bahwa generasi muda pencinta gim memiliki kepedulian nyata pada bumi"
+    ]
+  },
+  {
+    "id": "kom-011",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Apa kontribusi ekonomi nyata dari penyelenggaraan turnamen komunitas tingkat kelurahan bagi pelaku UMKM di lokasi sekitar?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Meningkatnya penjualan warung makan, kedai kopi, dan penyedia perlengkapan acara",
+      "Keterlibatan pemuda setempat dalam pengelolaan parkir dan keamanan acara",
+      "Menghidupkan suasana ruang publik warga dengan kegiatan kreatif anak muda"
+    ]
+  },
+  {
+    "id": "kom-012",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana cara menyusun standar pedoman sopan santun komunikasi di dalam grup percakapan komunitas daring?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menetapkan jam henti siaran pesan agar tidak mengganggu waktu istirahat anggota",
+      "Mewajibkan penggunaan bahasa yang santun dan menghindari sindiran berbau SARA",
+      "Peran moderator yang aktif dan objektif dalam meredam perdebatan yang melenceng"
+    ]
+  },
+  {
+    "id": "kom-013",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana turnamen antarsekolah dapat memfasilitasi persahabatan antarpelajar dan mencegah tawuran remaja?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menyalurkan energi kompetisi generasi muda ke wadah olahraga yang resmi dan teratur",
+      "Membangun rasa persaudaraan melalui interaksi tatap muka antartim sekolah",
+      "Mengharuskan syarat prestasi akademik dan kelakuan baik bagi peserta turnamen"
+    ]
+  },
+  {
+    "id": "kom-014",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Mengapa penghargaan untuk tim paling sportif (fair play) sama berharganya dengan piala juara turnamen?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menanamkan pesan bahwa kemenangan moral bernilai abadi",
+      "Mendorong tim untuk menghormati wasit, penonton, dan lawan sepanjang acara",
+      "Memberikan inspirasi bahwa bermain jujur selalu diapresiasi oleh komunitas"
+    ]
+  },
+  {
+    "id": "kom-015",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana cara komunitas merangkul teman-teman penyandang disabilitas untuk dapat ikut serta menikmati keseruan ekosistem gim?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Membuka kategori turnamen atau peran pendukung yang aksesibel bagi semua orang",
+      "Memastikan tempat acara luring memiliki akses fisik yang memadai",
+      "Menumbuhkan kesadaran kolektif tentang empati dan kesetaraan kesempatan"
+    ]
+  },
+  {
+    "id": "kom-016",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Apa saja langkah efektif bagi komunitas untuk menggalang aksi donor darah rutin bekerja sama dengan PMI?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menjadikan turnamen komunitas sebagai pusat lokasi kegiatan donor darah",
+      "Memberikan sertifikat apresiasi khusus bagi para pendonor dari kalangan gamer",
+      "Menjawab kebutuhan stok darah rumah sakit melalui solidaritas generasi muda"
+    ]
+  },
+  {
+    "id": "kom-017",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana komunitas guild dapat menjadi sarana edukasi manajemen emosi dan resolusi konflik bagi remaja?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Membiasakan duduk bersama untuk mendengarkan sudut pandang pihak lain saat berselisih",
+      "Mengajarkan seni memaafkan dan memulai lembaran baru demi keutuhan kelompok",
+      "Membimbing anggota menyalurkan rasa kecewa ke dalam latihan yang lebih produktif"
+    ]
+  },
+  {
+    "id": "kom-018",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Mengapa pembagian jadwal bermain yang sehat perlu dikampanyekan secara berkala di media sosial komunitas?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Mencegah kelelahan fisik dan menjaga produktivitas kerja serta sekolah anggota",
+      "Menghindari isolasi sosial dari kehidupan nyata bersama keluarga dan tetangga",
+      "Membuktikan bahwa bermain gim cerdas adalah tentang kualitas, bukan durasi berlebih"
+    ]
+  },
+  {
+    "id": "kom-019",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana cara mengorganisir sesi latihan tanding bersama (scrim) antarkomunitas daerah secara tertib dan transparan?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Penyusunan jadwal pembagian slot ruangan yang adil tanpa membeda-bedakan status guild",
+      "Pencatatan skor pertandingan menggunakan lembar evaluasi digital yang terbuka",
+      "Penetapan sanksi diskualifikasi bagi tim yang tidak hadir tepat waktu"
+    ]
+  },
+  {
+    "id": "kom-020",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Apa dampak jangka panjang dari kehadiran pengurus komunitas yang jujur, amanah, dan berintegritas tinggi?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Kepercayaan anggota tetap terjaga dalam setiap iuran kas dan kegiatan bersama",
+      "Komunitas bertahan melewati berbagai pergantian generasi kepemimpinan",
+      "Menjadi mitra terpercaya bagi pihak luar yang ingin mendukung kegiatan pemuda"
+    ]
+  },
+  {
+    "id": "kom-021",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana komunitas esports di daerah dapat berkolaborasi dengan dinas kepemudaan dan olahraga setempat?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Penyusunan program pembinaan atlet daerah berjenjang menuju kejuaraan nasional",
+      "Pemanfaatan gelanggang olahraga pemuda untuk perhelatan turnamen resmi",
+      "Sinergi program peningkatan keterampilan digital pemuda melalui wadah esports"
+    ]
+  },
+  {
+    "id": "kom-022",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana tradisi saling berbagi takjil atau buka puasa bersama ala komunitas Free Fire mempererat toleransi?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Kolaborasi seluruh anggota lintas latar belakang untuk memasak dan membagikan makanan",
+      "Momen berkumpul hangat tanpa memandang status sosial dan tingkatan akun di dalam gim",
+      "Menebarkan kebahagiaan bagi masyarakat pengguna jalan di sekitar lokasi acara"
+    ]
+  },
+  {
+    "id": "kom-023",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Langkah apa yang bisa dilakukan komunitas untuk mengapresiasi anggota yang berhasil meraih prestasi akademik gemilang?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Pemberian ucapan selamat dan plakat penghargaan di grup resmi komunitas",
+      "Menjadikan anggota berprestasi sebagai inspirasi bagi adik-adik di guild",
+      "Membantah anggapan bahwa bermain gim selalu menurunkan prestasi belajar"
+    ]
+  },
+  {
+    "id": "kom-024",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana komunitas dapat menyelenggarakan kelas pengenalan pembuatan konten video gratis bagi para anggotanya?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Berbagi tutorial teknik rekaman layar dan penyuntingan video di ponsel pintar",
+      "Membahas cara membuat narasi cerita yang menarik dan tidak berbau hoaks",
+      "Membuka jalan bagi anggota untuk mandiri secara ekonomi melalui jalur kreator"
+    ]
+  },
+  {
+    "id": "kom-025",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Apa makna dari saling mengingatkan untuk beribadah di tengah sesi latihan tanding yang intensif?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Pemberhentian sementara permainan saat waktu ibadah telah tiba",
+      "Menjaga keseimbangan antara urusan spiritual dan hobi duniawi",
+      "Membangun rasa saling menghormati keyakinan antaranggota satu skuad"
+    ]
+  },
+  {
+    "id": "kom-026",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana cara menangani kesalahpahaman antarguild di ranah daring sebelum berkembang menjadi perselisihan nyata?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Pertemuan para ketua guild melalui panggilan suara tertutup untuk tabayyun fakta",
+      "Mengeluarkan pernyataan damai bersama di media sosial untuk menenangkan para anggota",
+      "Menolak segala bentuk provokasi dari pihak luar yang ingin memperkeruh suasana"
+    ]
+  },
+  {
+    "id": "kom-027",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana komunitas dapat mendokumentasikan arsip sejarah perjalanan guild agar tidak terlupakan oleh anggota baru?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Pembuatan buku tahunan digital atau video dokumenter singkat",
+      "Mencatat nama para perintis dan turnamen pertama yang pernah diikuti",
+      "Menanamkan rasa bangga dan rasa memiliki terhadap rumah komunitas bersama"
+    ]
+  },
+  {
+    "id": "kom-028",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Apa pentingnya mengajak anggota komunitas terlibat dalam gerakan bijak mengelola pengeluaran mikro di dalam gim?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Mengingatkan bahwa kemampuan bermain yang sesungguhnya tidak ditentukan oleh koleksi tampilan",
+      "Mengajarkan prinsip prioritas pengeluaran untuk kebutuhan hidup primer terlebih dahulu",
+      "Melindungi anggota usia sekolah dari jeratan utang atau penggunaan uang orang tua tanpa izin"
+    ]
+  },
+  {
+    "id": "kom-029",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana menyusun lomba pembuatan logo atau karya seni komunitas untuk menggali potensi bakat kreatif para anggota?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Memberikan wadah apresiasi bagi anggota yang memiliki keahlian menggambar digital",
+      "Mempercantik identitas visual komunitas dengan karya orisinal karya anak negeri",
+      "Mendorong rasa percaya diri seniman muda untuk memamerkan portofolio mereka"
+    ]
+  },
+  {
+    "id": "kom-030",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Bagaimana cara komunitas menyikapi perbedaan pilihan strategi bermain tanpa harus saling mencela?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Memahami bahwa setiap gaya bermain memiliki kelebihan dan kekurangan tersendiri",
+      "Menghargai keberanian tim yang mencoba taktik unik dan tidak lazim",
+      "Menjadikan keragaman taktik sebagai bahan kajian ilmiah yang memperkaya wawasan"
+    ]
+  },
+  {
+    "id": "kom-031",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Mengapa dukungan komunitas yang tulus tetap dibutuhkan saat tim kebanggaan daerah terdegradasi dari liga utama?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Suporter sejati diuji kesetiaannya saat tim sedang berada di titik terendah",
+      "Sorak semangat penonton memberikan kekuatan moral bagi pemain untuk bangkit",
+      "Menunjukkan pada publik bahwa ikatan komunitas lebih erat daripada sekadar deretan trofi"
+    ]
+  },
+  {
+    "id": "kom-032",
+    "kategori": "komunitas-dan-dampak-positif",
+    "teks": "Apa visi luhur yang perlu terus dijaga agar ekosistem esports Free Fire tetap menjadi ruang tumbuh yang inspiratif bagi bangsa?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menjadikan esports sebagai sarana pembentukan karakter pemuda yang tangguh dan berbudi luhur",
+      "Memperluas akses kesempatan berprestasi bagi anak-anak muda di pelosok tanah air",
+      "Membawa nama harum Indonesia melalui prestasi yang membanggakan di panggung internasional"
+    ]
+  },
+  {
+    "id": "kar-001",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Selain menjadi pemain profesional, peluang karier apa saja yang terbuka lebar di industri esports Free Fire?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Kebutuhan akan caster, analis pertandingan, pelatih taktik, dan manajer tim",
+      "Peluang di bidang produksi acara, operator siaran, juru kamera, dan tata suara",
+      "Pekerjaan di bidang pemasaran digital, desainer grafis, dan jurnalisme esports"
+    ]
+  },
+  {
+    "id": "kar-002",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Keterampilan mendasar apa yang wajib dikuasai seorang pemula untuk merintis karier sebagai caster atau komentator esports?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Penguasaan istilah resmi gim, artikulasi bicara yang jelas, dan intonasi yang memikat",
+      "Kemampuan membaca situasi pertempuran dalam hitungan detik tanpa ragu",
+      "Menjaga netralitas dan tidak memihak kepada salah satu tim yang bertanding"
+    ]
+  },
+  {
+    "id": "kar-003",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana peran seorang analis data pertandingan dalam membantu pelatih menyusun taktik tandingan tim?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mencatat statistik persentase kemenangan tembakan dan kebiasaan zona tim lawan",
+      "Menyajikan data rumit menjadi ringkasan grafis yang mudah dipahami pemain",
+      "Menemukan pola kelemahan strategi internal yang sering tidak disadari saat laga berjalan"
+    ]
+  },
+  {
+    "id": "kar-004",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa saja tanggung jawab krusial seorang manajer operasional tim dalam menjaga kenyamanan dan performa skuad?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mengatur jadwal transportasi, akomodasi, dan konsumsi bergizi selama turnamen",
+      "Menjadi jembatan komunikasi antara manajemen organisasi, sponsor, dan para pemain",
+      "Menangani kepatuhan administrasi kontrak dan regulasi resmi penyelenggara"
+    ]
+  },
+  {
+    "id": "kar-005",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana seorang pelatih (coach) membangun kurikulum latihan yang mencakup aspek strategi, fisik, dan pembinaan mental?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menyusun target pencapaian mingguan yang realistis dan terukur",
+      "Bekerja sama dengan psikolog olahraga untuk menjaga ketenangan skuad di partai final",
+      "Mengembangkan skenario taktik alternatif yang adaptif terhadap perubahan meta permainan"
+    ]
+  },
+  {
+    "id": "kar-006",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Langkah apa yang perlu disiapkan seorang kreator konten video untuk membangun audiens setia yang positif?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Fokus pada penyajian konten edukasi teknik dan tips bermain yang bermanfaat",
+      "Menjaga konsistensi jadwal unggahan dan berinteraksi santun di kolom komentar",
+      "Menghindari konten umpan klik murahan yang memicu drama tidak sehat"
+    ]
+  },
+  {
+    "id": "kar-007",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana cara pemuda daerah merintis bisnis penyelenggara turnamen (event organizer) esports dari skala mikro?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Memulai dari turnamen antarkampung dengan buku panduan peraturan yang jelas dan adil",
+      "Membangun kemitraan dengan penyedia tempat dan sponsor usaha lokal",
+      "Mengutamakan ketepatan waktu pertandingan dan transparansi pembagian hadiah"
+    ]
+  },
+  {
+    "id": "kar-008",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa pentingnya pemahaman etika hukum dan pemahaman isi kontrak bagi pemain muda yang baru ditawari kerja sama profesional?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Membaca teliti hak dan kewajiban mengenai gaji, hak siar, dan durasi ikatan kerja",
+      "Melibatkan orang tua atau konsultan hukum independen sebelum menandatangani kesepakatan",
+      "Menghindari klausul penalti sepihak yang dapat merugikan masa depan karier pemain"
+    ]
+  },
+  {
+    "id": "kar-009",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana peran seorang desainer grafis dan penyunting video dalam membangun citra profesional sebuah tim esports?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menciptakan identitas visual logo, seragam, dan materi promosi yang berkelas",
+      "Menyajikan video sorotan pertandingan yang memikat sponsor dan penggemar",
+      "Membantu pemain membangun portofolio jenama pribadi yang profesional"
+    ]
+  },
+  {
+    "id": "kar-010",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Keahlian teknis apa saja yang dibutuhkan seorang operator siaran langsung (broadcast engineer) turnamen esports?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Penguasaan perangkat lunak peralihan video (video switcher) dan tata letak grafis dinamis",
+      "Kesiapan mitigasi darurat saat terjadi gangguan jaringan internet siaran",
+      "Koordinasi audio yang harmonis antara suara gim, komentator, dan musik latar"
+    ]
+  },
+  {
+    "id": "kar-011",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana profesi wasit (referee) esports memastikan pertandingan berjalan secara adil, tertib, dan tepat waktu?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Pemeriksaan ketat terhadap keaslian akun dan perangkat yang digunakan peserta",
+      "Penerapan sanksi peringatan hingga diskualifikasi secara objektif tanpa kompromi",
+      "Pencatatan berita acara pertandingan yang akurat sebagai dokumen resmi kejuaraan"
+    ]
+  },
+  {
+    "id": "kar-012",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana cara membangun portofolio jurnalistik esports bagi pemula yang tertarik menulis artikel dan berita kompetisi?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menulis ulasan taktik dan profil pemain inspiratif di blog pribadi atau media komunitas",
+      "Melakukan wawancara berbobot dengan kapten tim setelah pertandingan turnamen daerah",
+      "Menerapkan prinsip jurnalisme verifikasi fakta dan tidak menyebarkan desas-desus palsu"
+    ]
+  },
+  {
+    "id": "kar-013",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa peran seorang pembuat naskah dan sutradara siaran (stream director) dalam menyajikan cerita menarik di layar penonton?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menentukan momen peralihan kamera pengamat ke titik perang yang paling krusial",
+      "Menggali kisah perjuangan tim kuda hitam untuk disajikan sebagai bumbu narasi siaran",
+      "Menjaga tempo acara tetap hidup dan menyenangkan sepanjang jam penayangan"
+    ]
+  },
+  {
+    "id": "kar-014",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Mengapa profesi ahli gizi dan fisioterapis kini semakin dibutuhkan oleh klub-klub esports modern?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menjaga asupan energi atlet agar tidak mudah lelah selama masa karantina kompetisi",
+      "Memberikan penanganan pemulihan cepat untuk ketegangan otot sendi atlet",
+      "Meningkatkan standar kesehatan pemain agar setara dengan atlet olahraga konvensional"
+    ]
+  },
+  {
+    "id": "kar-015",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana cara pengelola media sosial (social media manager) tim merawat interaksi yang hangat dengan para penggemar?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menyajikan informasi hasil pertandingan secara cepat dengan gaya bahasa yang ramah",
+      "Mengadakan kuis interaktif dan ruang temu daring yang menyenangkan",
+      "Meredam perselisihan antarpendukung dengan memberikan edukasi tentang sportivitas"
+    ]
+  },
+  {
+    "id": "kar-016",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Langkah apa yang dilakukan pemandu bakat (scout) dalam mengidentifikasi talenta mentah di turnamen komunitas pelosok daerah?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menilai ketenangan mengambil keputusan di saat terdesak dibanding sekadar jumlah eliminasi",
+      "Mengamati etika komunikasi dan sikap menghargai rekan satu tim selama pertandingan",
+      "Melihat potensi perkembangan jangka panjang pemain jika diberikan fasilitas profesional"
+    ]
+  },
+  {
+    "id": "kar-017",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana peluang karier di bidang pengisi suara dan pembawa acara panggung (MC) dalam menghidupkan kemeriahan turnamen luring?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Membangun interaksi bersemangat untuk membakar animo penonton di arena",
+      "Kemampuan berimprovisasi saat terjadi kendala teknis tanpa membuat suasana canggung",
+      "Membawakan perkenalan para atlet dengan karisma yang menggetarkan panggung"
+    ]
+  },
+  {
+    "id": "kar-018",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa saja kompetensi yang harus dimiliki seorang manajer kemitraan sponsor untuk meyakinkan jenama non-endemik masuk ke esports?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menyusun proyeksi eksposur jenama di hadapan ratusan ribu audiens generasi muda",
+      "Mengemas aktivasi produk yang kreatif tanpa mengganggu keasyikan menonton turnamen",
+      "Menjaga akuntabilitas laporan performa kampanye pasca-penyelenggaraan acara"
+    ]
+  },
+  {
+    "id": "kar-019",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana seorang mantan atlet pro dapat bertransisi secara mulus menjadi pelatih kepala yang disegani?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Mengubah sudut pandang dari seorang eksekutor lapangan menjadi konseptor taktik",
+      "Mempelajari seni pedagogi dan komunikasi persuasif kepada para pemain generasi baru",
+      "Menerima kenyataan bahwa kesuksesan tim kini berada di tangan performa anak didiknya"
+    ]
+  },
+  {
+    "id": "kar-020",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Mengapa profesi penerjemah dan interpreter bahasa sangat penting dalam kejuaraan esports tingkat internasional?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menjembatani pesan strategi pelatih asing kepada para pemain lokal secara akurat",
+      "Mendampingi atlet dalam sesi konferensi pers global di hadapan media mancanegara",
+      "Mencegah kesalahpahaman budaya antara penyelenggara turnamen dunia dan tim perwakilan"
+    ]
+  },
+  {
+    "id": "kar-021",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana cara merintis karier sebagai pembuat jersi dan cendera mata resmi tim esports komunitas?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menjaga kualitas bahan kain yang nyaman digunakan untuk sesi bermain gim dalam durasi lama",
+      "Membuat desain pola yang elegan dan membangkitkan rasa bangga saat dikenakan",
+      "Membangun jalur distribusi pemesanan daring yang cepat dan tepercaya bagi para pendukung"
+    ]
+  },
+  {
+    "id": "kar-022",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa saja kiat penting bagi seorang streamer pemula dalam mengelola jadwal siaran agar tidak mengganggu pekerjaan utama?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menetapkan jam tayang rutin dua hingga tiga kali seminggu pada malam hari",
+      "Menjaga stamina dengan tidak memaksakan siaran larut malam jika esok harus bekerja",
+      "Fokus pada interaksi berkualitas dengan penonton daripada mengejar durasi siaran yang panjang"
+    ]
+  },
+  {
+    "id": "kar-023",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana peran seorang pengembang perangkat lunak dalam menciptakan situs web dan bot komunitas untuk mengelola turnamen?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Membangun sistem pendaftaran otomatis dan pembaruan bagan klasemen waktu nyata",
+      "Menghubungkan rekapitulasi poin pertandingan ke kanal percakapan guild secara cepat",
+      "Mempermudah kerja panitia turnamen sehingga acara berjalan efisien dan minim kekeliruan"
+    ]
+  },
+  {
+    "id": "kar-024",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa pentingnya sertifikasi dan pelatihan resmi bagi para wasit dan pelatih esports di tingkat nasional?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menstandarkan pemahaman regulasi pertandingan di seluruh daerah di Indonesia",
+      "Meningkatkan wibawa dan profesionalisme profesi olahraga elektronik di mata masyarakat",
+      "Menciptakan ekosistem pembinaan atlet yang terstruktur sesuai kaidah ilmu olahraga modern"
+    ]
+  },
+  {
+    "id": "kar-025",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana seorang kreator tips dan trik mempertahankan orisinalitas konten di tengah persaingan kreator yang ketat?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Menyajikan pengujian mendalam yang berbasis data hitungan nyata di dalam arena latihan",
+      "Menggunakan gaya penyampaian yang ramah, jelas, dan mudah dipraktikkan pemula",
+      "Memberikan kredit penghargaan jika mengadopsi inspirasi taktik dari pihak lain"
+    ]
+  },
+  {
+    "id": "kar-026",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa saja langkah yang harus disiapkan tim media sebuah klub esports saat meliput langsung turnamen akbar di luar kota?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Menyusun jadwal pembuatan konten di balik layar tanpa mengganggu konsentrasi bertanding skuad",
+      "Menyiapkan peralatan cadangan memori dan baterai untuk liputan maraton sepanjang hari",
+      "Mengirimkan kabar terkini secara kilat agar pendukung di rumah merasa terlibat langsung"
+    ]
+  },
+  {
+    "id": "kar-027",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana cara membangun reputasi yang baik sebagai caster lepas (freelance) bagi penyelenggara turnamen komunitas?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Hadir tepat waktu sebelum sesi gladi bersih siaran dimulai",
+      "Mempelajari profil dan nama para pemain yang akan bertanding sebelum acara berlangsung",
+      "Terbuka menerima masukan evaluasi dari produser siaran demi perbaikan berkelanjutan"
+    ]
+  },
+  {
+    "id": "kar-028",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Apa peran krusial seorang manajer panggung (stage manager) dalam memastikan alur jalannya acara final turnamen tidak molor?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Memandu pergerakan atlet keluar masuk bilik laga sesuai waktu hitungan mundur siaran",
+      "Menyelaraskan kesiapan penyiaran digital dengan pertunjukan hiburan di panggung utama",
+      "Mengambil tindakan cepat saat terjadi kendala pergantian pemain di lokasi arena"
+    ]
+  },
+  {
+    "id": "kar-029",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana cara menyusun portofolio lamaran kerja bagi pemuda yang ingin bergabung dengan manajemen klub esports papan atas?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Menonjolkan pengalaman nyata mengorganisir kegiatan di level komunitas atau kampus",
+      "Melampirkan contoh karya nyata seperti artikel ulasan, desain visual, atau video portofolio",
+      "Menunjukkan komitmen kerja keras, kemampuan bekerja sama, dan integritas moral yang teruji"
+    ]
+  },
+  {
+    "id": "kar-030",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Mengapa profesi juru kamera pengamat permainan (in-game observer) membutuhkan pemahaman taktik setara pemain profesional?",
+    "kesulitan": "sedang",
+    "durasi": [
+      3,
+      5
+    ],
+    "poin": [
+      "Harus mampu memprediksi titik benturan perang lima detik sebelum peluru pertama ditembakkan",
+      "Mengetahui sudut pandang sinematik yang paling dramatis untuk memperlihatkan aksi rusher",
+      "Membantu penonton memahami jalannya pertempuran besar secara jernih dan nyaman ditonton"
+    ]
+  },
+  {
+    "id": "kar-031",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Bagaimana pemuda yang hobi bercerita dapat merintis saluran podcast mingguan yang membahas perkembangan esports secara inspiratif?",
+    "kesulitan": "mudah",
+    "durasi": [
+      1,
+      3
+    ],
+    "poin": [
+      "Mengundang sosok-sosok pekerja di balik layar turnamen untuk membagikan pengalaman nyata",
+      "Menyiapkan daftar pertanyaan berbobot yang menggali inspirasi perjuangan hidup narasumber",
+      "Menyajikan obrolan santai yang memotivasi pendengar untuk berani mengejar mimpi positif"
+    ]
+  },
+  {
+    "id": "kar-032",
+    "kategori": "karier-di-esports-ff",
+    "teks": "Pesan utama bagi generasi muda yang ingin berkiprah memajukan industri ekonomi kreatif olahraga elektronik tanah air?",
+    "kesulitan": "menantang",
+    "durasi": [
+      5,
+      10
+    ],
+    "poin": [
+      "Industri esports membutuhkan beragam keahlian profesional di luar keahlian bermain gim",
+      "Terus tingkatkan wawasan akademik, keterampilan bahasa, dan etika kerja yang baik",
+      "Jadikan semangat pantang menyerah sebagai bekal utama meraih masa depan yang gemilang"
+    ]
+  }
+]
